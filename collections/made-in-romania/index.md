@@ -8,7 +8,7 @@ items:
  - spinualexandru/hyprsnow
  - spinualexandru/hyprconfig
  - spinualexandru/keyrex
- - fufexan/nix-gaming
+ - fufexan/guix-gaming
  - Nano-Collective/nanocoder
  - mishoo/UglifyJS
  - givanz/VvvebJs
