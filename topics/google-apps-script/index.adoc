@@ -1,0 +1,12 @@
+*Google Apps Script* is a scripting platform developed by Google for
+light-weight application development in the Google Workspace platform.
+Google Apps Script was initially developed by Mike Harm as a side
+project while working as a developer on Google Sheets. It is based on
+JavaScript 1.6, but also includes some portions of 1.7 and 1.8 and a
+subset of the ECMAScript 5 API.
+
+== Other resources
+
+* Read the API documentation at
+https://developers.google.com/apps-script
+* Access the application at https://script.google.com

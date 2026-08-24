@@ -1,0 +1,3 @@
+Webpack is a bundler that takes modules with dependencies and creates
+static assets. It is designed to simplify and enhance the development
+and user experience.

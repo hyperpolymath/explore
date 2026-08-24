@@ -1,0 +1,10 @@
+According to the UN Secretary General’s Roadmap for Digital Cooperation,
+a Digital Public Good (DPG) is an open source software, open data, open
+AI systems, or open content collections that adhere to privacy and other
+applicable laws and best practices, do no harm, and help attain the
+Sustainable Development Goals (SDGs). To be classified as a DPG, a
+digital solution must conform to the nine indicators of the
+https://digitalpublicgoods.net/standard[DPG Standard]. The Digital
+Public Goods Alliance maintains a
+https://digitalpublicgoods.net/registry[registry] of digital solutions
+officially vetted and recognized as digital public goods.

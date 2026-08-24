@@ -1,0 +1,5 @@
+Rockset is a real-time indexing database service for serving low
+latency, high concurrency analytical queries at scale. It builds a
+Converged Index™ on structured and semi-structured data from OLTP
+databases, streams and lakes in real-time and exposes a RESTful SQL
+interface.

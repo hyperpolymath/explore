@@ -1,0 +1,10 @@
+*Stylus* can mean the following things: *
+link:/topics/stylus-css[stylus-css] *
+link:/topics/stylus-ext[stylus-ext] (fork of
+link:/topics/stylish[stylish])
+
+Generally speaking, a stylus is a
+https://en.wikipedia.org/wiki/Stylus[writing utensil], which also has a
+https://en.wikipedia.org/wiki/Digital_pen[digital pendant] and a
+https://en.wikipedia.org/wiki/Stylus_(computing)[computing device] named
+after it due to their similar appearance.

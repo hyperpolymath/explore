@@ -1,0 +1,3 @@
+Game Jams challenge people to create games within a short period of time
+(usually over a weekend, a week, or a month), and with certain
+constraints like limited color palettes, file sizes, and themes.

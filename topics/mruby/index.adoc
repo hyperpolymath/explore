@@ -1,0 +1,4 @@
+mruby is the lightweight implementation of the Ruby language complying
+with part of the https://www.iso.org/standard/59579.html[ISO standard].
+It can be linked and embedded within applications and it’s designed to
+run in constrained environments, like microcontrollers.

@@ -1,0 +1,2 @@
+Linux is an open source kernel modeled after UNIX. Widely used, it is
+known for its efficiency and reliability.

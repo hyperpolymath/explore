@@ -1,0 +1,2 @@
+Luvit is an asynchronous I/O Lua runtime environment developed by Tim
+Caswell and contributors that implements Node.js APIs to Lua.

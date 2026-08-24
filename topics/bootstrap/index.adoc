@@ -1,0 +1,2 @@
+*Bootstrap* is a popular front-end framework that streamlines website
+design. It allows for the creation of easy and responsive web layouts.

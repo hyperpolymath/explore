@@ -1,0 +1,5 @@
+Move is a smart contract programming language designed for secure and
+verifiable transaction execution. Originally created by Meta for the
+Diem project, it now powers modern blockchains like Aptos and Sui. Move
+emphasizes safety, resource-oriented programming, and formal
+verification.

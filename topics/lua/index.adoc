@@ -1,0 +1,3 @@
+Lua is a programming language written in C that emphasizes performance.
+It has automatic memory management and is often used to extend software
+written in other languages.

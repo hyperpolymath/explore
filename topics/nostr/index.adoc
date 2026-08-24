@@ -1,0 +1,4 @@
+Nostr is a decentralized network protocol for a distributed social
+networking system. The name is an acronym for "`Notes and Other Stuff
+Transmitted by Relay`". Posts are resistant to censorship and are
+cryptographically validated.

@@ -1,0 +1,2 @@
+irc is a chat software to real-time talk on the internet, created in
+1988 by jarkko oikarinen.

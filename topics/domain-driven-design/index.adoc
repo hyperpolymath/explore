@@ -1,0 +1,3 @@
+*Domain-driven design* (*DDD*) is is a programming paradigm where code
+is separated into domains with distinct business logic. This helps
+isolating relating logic and stick to each domain’s objective.

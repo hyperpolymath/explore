@@ -1,0 +1,3 @@
+*Fuzzing* or *fuzz testing* is an automated software black box testing
+technique that evaluates the program’s reaction to providing invalid,
+unexpected, or random data as inputs to a computer program.

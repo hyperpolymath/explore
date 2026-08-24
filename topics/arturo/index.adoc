@@ -1,0 +1,5 @@
+Arturo was designed with the intent of having a language that is
+flexible, easy to use even by beginners, yet powerful, easily portable,
+and with a solid batteries-included library. Its syntax shares many
+common elements with that of Rebol and is, thus, equally suitable for
+Domain-Specific Language (DSL) design as well.

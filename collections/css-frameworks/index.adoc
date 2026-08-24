@@ -1,0 +1,2 @@
+A CSS framework is a set of css classes that allow you to create your
+website with little to no new css code.

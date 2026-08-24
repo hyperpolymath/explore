@@ -1,0 +1,4 @@
+NativeScript is a JavaScript-native mobile framework developed by
+Progress. NativeScript allows developers to build truly native
+cross-platform iOS/Android mobile apps using existing web skills
+(JavaScript, CSS, XML) and established frameworks (Angular and Vue).

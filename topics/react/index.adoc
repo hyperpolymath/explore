@@ -1,0 +1,2 @@
+React (also known as React.js or ReactJS) is a JavaScript library that
+makes developing interactive user interfaces simple.

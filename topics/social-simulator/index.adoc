@@ -1,0 +1,2 @@
+A subgenre of life simulation game that explore social interactions
+between multiple artificial lives.

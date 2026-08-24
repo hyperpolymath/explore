@@ -1,0 +1,2 @@
+Probot is a framework for building GitHub Apps in Node.js. Use pre-built
+apps to extend GitHub, and easily build and share your own.

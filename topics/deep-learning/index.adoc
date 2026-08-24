@@ -1,0 +1,5 @@
+Deep learning is a subset of machine learning that uses artificial
+neural networks with multiple layers to automatically learn hierarchical
+representations from data. It powers modern breakthroughs in computer
+vision, natural language processing, speech recognition, and generative
+AI.

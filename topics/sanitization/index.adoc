@@ -1,0 +1,2 @@
+Sanitizing is a process to check and remove harmful data from user
+input. It prevents XSS (Cross Site Scripting) attacks.

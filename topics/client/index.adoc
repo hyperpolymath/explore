@@ -1,0 +1,2 @@
+A client is a computer hardware or software that accesses a service made
+available by a server.

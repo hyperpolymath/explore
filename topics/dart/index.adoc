@@ -1,0 +1,8 @@
+Dart is a general-purpose programming language originally developed by
+Google and later approved as a standard by Ecma (ECMA-408). It is used
+to build web, server, and mobile applications.
+
+Dart is an object-oriented, class defined language using a C-style
+syntax that transcompiles optionally into JavaScript. It supports
+interfaces, mixins, abstract classes, reified generics, static typing,
+and a sound type system.

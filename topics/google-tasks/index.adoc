@@ -1,0 +1,10 @@
+*Google Tasks* lets users capture and manage to-dos anywhere in Google
+Workspace or using iOS and Android apps. It began as a feature of Gmail
+and Calendar before launching as a standalone app in June 2018. It
+integrates directly with Google Calendar, and tasks can be created from
+emails in Gmail.
+
+== Other resources
+
+* Read the API documentation at https://developers.google.com/tasks
+* Access the application at https://mail.google.com

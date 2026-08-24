@@ -1,0 +1,4 @@
+*Wails* is a project that enables the creation of desktop applications
+for all major desktop platforms while aiming to be lightweight and fast.
+It provides the ability to wrap both Go code and a web frontend into a
+single binary.

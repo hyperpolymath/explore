@@ -1,0 +1,4 @@
+Swift is a general-purpose programming language built using a modern
+approach to safety, performance, and software design patterns. Inspired
+by many other modern programming languages, Swift is intended to be more
+resilient and expressive than Objective-C, its predecessor.

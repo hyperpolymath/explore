@@ -1,0 +1,3 @@
+Elixir leverages the Erlang VM, known for running low-latency,
+distributed and fault-tolerant systems, while also being successfully
+used in web development, and the embedded software domain.

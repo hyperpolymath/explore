@@ -1,0 +1,3 @@
+Cinnamon is a free and open source desktop environment for Linux and
+other Unix-like operating systems, which was originally based off of
+GNOME 3, but follows traditional desktop metaphor conventions.

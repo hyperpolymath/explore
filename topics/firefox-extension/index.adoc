@@ -1,0 +1,4 @@
+Firefox Extensions are add-ons that allow users to customize their web
+browser from Mozilla. They are downloadable through the Firefox Add-on
+website. Modern extensions follow WebExtension standard and are most
+often written in HTML, JavaScript, and CSS.

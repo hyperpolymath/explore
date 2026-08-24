@@ -1,0 +1,5 @@
+The term "`**IoC**`" can mean multiple things: *
+link:/topics/inversion-of-control[Inversion of Control] in the context
+of link:/topics/design-patterns[design patterns] *
+link:/topics/indicator-of-compromise[Indicator of Compromise] in the
+context of link:/topics/security[cybersecurity]

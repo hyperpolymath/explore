@@ -1,0 +1,8 @@
+Mastodon is a free and open source microblogging network built as a
+decentralized federation of independently-operated servers. The
+server-side technology is Ruby on Rails, and the front end is written in
+JavaScript (React.js and Redux). It implements the
+https://activitypub.rocks/[ActivityPub] and
+https://webfinger.net/[WebFinger] protocols for interoperability with
+other social networks. https://joinmastodon.org/apps[There are several
+client applications for different platforms available.].

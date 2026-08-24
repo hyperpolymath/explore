@@ -1,0 +1,3 @@
+Perceptual hashing is the use of an algorithm that attempts to
+fingerprint multimedia for identification and comparison. Perceptual
+hashes of two similar multimedia should be similar.

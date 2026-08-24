@@ -1,0 +1,4 @@
+Gitpod is a container-based development platform that puts developer
+experience first. Gitpod provisions ready-to-code development
+environments in the cloud accessible through your browser and your local
+IDE.

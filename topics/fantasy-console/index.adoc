@@ -1,0 +1,5 @@
+A fantasy console is a game engine and/or virtual machine simulating and
+inspired by 8-bit computers and consoles from yesteryear. It forces
+developers to work within constraints on color palettes, sound channels,
+resolution, memory, etc. Very popular in the retrogaming and game jam
+scenes.

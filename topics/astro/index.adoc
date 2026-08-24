@@ -1,0 +1,4 @@
+Astro is a static site builder that delivers lightning-fast performance
+with a modern developer experience. 100% Static HTML, No JS: Astro
+renders your entire page to static HTML, removing all JavaScript from
+your final build by default.

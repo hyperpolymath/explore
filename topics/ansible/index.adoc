@@ -1,0 +1,3 @@
+Ansible is a simple and powerful automation engine. It is used to help
+with configuration management, application deployment, and task
+automation.

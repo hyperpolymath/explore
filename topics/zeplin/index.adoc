@@ -1,0 +1,4 @@
+Zeplin is a connected space for product teams. It helps you collect and
+organize your team’s projects and resources like components, colors, and
+text styles. Everyone in the team can access up to date design resources
+and discussions. They also get notified of changes easily.

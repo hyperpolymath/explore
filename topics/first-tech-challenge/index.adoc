@@ -1,0 +1,5 @@
+FIRST Tech Challenge (FTC) is a robotics competition for students in
+grades 7–12 to compete head to head, using a sports model. Teams are
+responsible for designing, building, and programming their robots in a
+10-week build period to compete in an alliance format against other
+teams.

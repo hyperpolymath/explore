@@ -1,0 +1,3 @@
+Smoke tests are preliminary or sanity tests to quickly reveal simple
+failures severe enough to abort a software release or deployment, or
+before doing more fine-grained testing.

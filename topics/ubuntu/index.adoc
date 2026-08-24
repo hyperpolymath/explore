@@ -1,0 +1,3 @@
+Ubuntu builds upon Debian’s architecture to provide a Linux server and
+desktop operating system. Ubuntu prioritizes security, as the majority
+of its network ports are closed by default.

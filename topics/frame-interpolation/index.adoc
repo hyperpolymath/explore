@@ -1,0 +1,2 @@
+Frame interpolation is used to increase the frame rate of a video, or to
+create a slow-motion video without lowering the frame rate.

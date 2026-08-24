@@ -1,0 +1,5 @@
+Reflex FRP is a composable, cross-platform functional reactive
+programming framework for Haskell. It allows you to build interactive
+components in pure functional style, working in harmony with established
+Haskell techniques and improving the quality and elegance of your
+applications.

@@ -1,0 +1,2 @@
+watchOS is an operating system developed by Apple for use in the Apple
+Watch line of products. It is based on iOS.

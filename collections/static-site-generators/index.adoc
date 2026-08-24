@@ -1,0 +1,6 @@
+Whether you’re starting your own personal blog or creating documentation
+for a project with tens of thousands of stars, static site generators
+are the future. Forget about maintaining servers and databases — just
+start writing using the Markdown syntax you already know and love on
+GitHub, use one of these generators to create static HTML files, and
+push to a free service like https://pages.github.com/[GitHub Pages].

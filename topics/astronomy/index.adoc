@@ -1,0 +1,5 @@
+Astronomy is an academic discipline and major branch of science that
+deals with the study of matter, objects, and phenomena in
+https://en.wikipedia.org/wiki/Outer_space[outer space] and the Universe.
+Subfields include astrophysics, planetary science, astrobiology, and
+astrochemistry.

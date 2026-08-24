@@ -1,0 +1,5 @@
+HMS Core is an assortment of open device and cloud capabilities provided
+by HMS, dedicated to helping developers build high-quality apps with
+minimal hassle. Noteworthy capabilities include: Account Kit, In-App
+Purchases (IAP), Push Kit, Game Service, Location Kit, Map Kit, Ads Kit,
+and ML Kit.

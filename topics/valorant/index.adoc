@@ -1,0 +1,10 @@
+VALORANT is a free-to-play first-person hero shooter developed and
+published by Riot Games, for Microsoft Windows. The game is set in the
+near future. Players play as one of a set of Agents, characters designed
+based on several countries and cultures around the world.
+
+== Community & Support
+
+* https://developer.riotgames.com/apis[API Documentation]
+* https://discord.com/invite/riotgamesdevrel[Riot Games Third-Party
+Developer Community on Discord]

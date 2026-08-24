@@ -1,0 +1,3 @@
+Data recovery is a method of recovering using software to undone file
+deletion or corruption, the process of file recovery is variable in most
+cases.

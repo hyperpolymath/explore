@@ -1,0 +1,9 @@
+The Kokkos C++ Performance Portability Ecosystem is a production level
+solution for writing modern C++ applications in a hardware agnostic way.
+The Ecosystem consists of multiple libraries addressing the primary
+concerns for developing and maintaining applications in a portable way.
+The three main components are the
+https://github.com/kokkos/kokkos[Kokkos Core Programming Model], the
+https://github.com/kokkos/kokkos-kernels[Kokkos Kernels Math Libraries]
+and the https://github.com/kokkos/kokkos-tools[Kokkos Profiling and
+Debugging Tools].

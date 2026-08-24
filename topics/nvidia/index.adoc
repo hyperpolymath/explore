@@ -1,0 +1,5 @@
+NVIDIA Corporation is a company that manufactures graphics processors,
+mobile technologies, and desktop computers. It is known for developing
+integrated circuits, which are used in everything from electronic game
+consoles to personal computers (PCs). The company is a leading
+manufacturer of high-end graphics processing units (GPUs).

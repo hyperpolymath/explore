@@ -1,0 +1,7 @@
+Yii is a popular PHP framework, for efficiently developing fast and
+secure web applications and APIs.
+
+It comes with https://www.yiiframework.com/doc/guide[comprehensive
+documentation] and a large amount of
+https://www.yiiframework.com/extensions[extensions] that provide useful
+functionality.

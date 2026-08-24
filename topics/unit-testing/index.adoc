@@ -1,0 +1,4 @@
+*Unit testing* is a type of software testing that focusses on testing
+small units (usually the lowest common denominator) instead of whole
+processes. This makes more tests necessary but their successful
+executing makes pinpointing actual successful code easier.

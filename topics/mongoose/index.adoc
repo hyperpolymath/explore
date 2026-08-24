@@ -1,0 +1,3 @@
+Mongoose is a MongoDB object modeling tool designed to work in an
+asynchronous environment. Mongoose includes built-in type casting,
+validation, query building, and business logic hooks.

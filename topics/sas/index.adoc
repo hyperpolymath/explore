@@ -1,0 +1,4 @@
+SAS is a statistical software suite developed by SAS Institute for data
+management, advanced analytics, multivariate analysis, business
+intelligence, enterprise app development, criminal investigation, and
+predictive analytics.

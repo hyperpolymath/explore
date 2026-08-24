@@ -1,0 +1,2 @@
+Wayland is a communication protocol that specifies the communication
+between a display server and its clients.

@@ -1,0 +1,5 @@
+Homebrew, when applied to video games, refers to games produced by
+hobbyists for proprietary video game consoles which are not intended to
+be user-programmable. 3DS Homebrew specifically refers to producing and
+running custom code on the Nintendo 3DS system. This may include custom
+firmware, emulators, and other applications not authorized by Nintendo.

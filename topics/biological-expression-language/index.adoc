@@ -1,0 +1,4 @@
+Biological Expression Language is a domain-specific language created by
+Dexter Pratt at Selventa for encoding qualitative causal, correlative,
+and associative relations between entities in biological knowledge
+graphs.

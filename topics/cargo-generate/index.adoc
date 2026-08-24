@@ -1,0 +1,6 @@
+cargo-generate is a developer tool to help you get up and running
+quickly with a new Rust project by leveraging a pre-existing Git
+repository as a template.
+
+Please tag your Git repository with `+cargo-generate+` so that others
+can find your nice template project as well.

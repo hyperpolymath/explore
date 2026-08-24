@@ -1,0 +1,10 @@
+The T3 Stack is a web development stack made by
+https://twitter.com/t3dotgg[Theo] focused on simplicity, modularity, and
+full-stack type safety. It consists of:
+
+* https://nextjs.org[Next.js]
+* https://trpc.io[tRPC]
+* https://tailwindcss.com[Tailwind CSS]
+* https://typescriptlang.org[TypeScript]
+* https://prisma.io[Prisma]
+* https://next-auth.js.org[NextAuth.js]

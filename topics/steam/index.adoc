@@ -1,0 +1,6 @@
+Steam is a video game digital distribution service by Valve. It was
+launched as a standalone software client in September 2003 as a way for
+Valve to provide automatic updates for their games, and expanded to
+include games from third-party publishers. Steam offers digital rights
+management (DRM), server hosting, video streaming, and social networking
+services.

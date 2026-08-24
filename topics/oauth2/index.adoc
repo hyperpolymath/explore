@@ -1,0 +1,10 @@
+*OAuth 2.0* (short for "`**Open Authorization**`") is the
+industry-standard protocol for authorization. Generally, the OAuth
+protocol provides a way for resource owners to provide a client
+[application] with secure delegated access to server resources.
+
+== Types
+
+OAuth framework specifies several grant types for different use cases.
+Some of the most common OAuth grant types are: * Authorization Code *
+PKCE * Client Credentials * Device Code * Refresh Token

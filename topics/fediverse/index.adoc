@@ -1,0 +1,9 @@
+The Fediverse (a portmanteau of "`federation`" and "`universe`") is a
+network of interconnected servers (or so called instances) that make up
+federated publishing websites similar to Twitter, Instagram, and
+YouTube. It is made up by federation protocols like
+https://www.w3.org/community/ostatus/[OStatus], and
+https://activitypub.rocks/[ActivityPub], and server software, most
+notably https://joinmastodon.org/[Mastodon],
+https://pleroma.social[Pleroma],
+https://github.com/misskey-dev/misskey[Misskey], and many others.

@@ -1,0 +1,4 @@
+tvOS is an operating system developed by Apple for use in the Apple TV
+line of products since the fourth generation model. Before tvOS, Apple
+used a variant of Mac OS X Tiger for the first generation model and a
+variant of iOS for the 2nd and 3rd gen models.

@@ -1,0 +1,4 @@
+MeiliSearch is an open source API for building search into web and
+mobile applications. Both searching and indexing are highly
+customizable. Features such as typo-tolerance, filters, and synonyms are
+provided out-of-the-box.

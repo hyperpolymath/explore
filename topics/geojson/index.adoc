@@ -1,0 +1,3 @@
+*GeoJSON* is a open standard file format for representation of
+geographical data which uses the
+https://github.com/topics/json[JavaScript Object Notation].

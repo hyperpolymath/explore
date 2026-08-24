@@ -1,0 +1,6 @@
+The Einstein problem in plane geometry involves finding a single
+prototile that can tessellate a plane only in a nonperiodic way, known
+as an "`einstein.`" This term plays on the German phrase "`ein Stein,`"
+meaning "`one stone.`" The strictest form of this problem was solved in
+2023, extending the exploration of nonperiodic tiling and related
+geometric concepts.

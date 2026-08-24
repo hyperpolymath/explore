@@ -1,0 +1,3 @@
+The industry’s leading PCB design software combining schematic, layout,
+and everything else you need in one environment to effortlessly design
+printed circuit boards.

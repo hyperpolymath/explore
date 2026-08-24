@@ -1,0 +1,5 @@
+The Bosque programming language is a Microsoft Research project that is
+investigating language designs for writing code that is simple, obvious,
+and easy to reason about for both humans and machines. The key design
+features of the language provide ways to avoid accidental complexity in
+the development and coding process.

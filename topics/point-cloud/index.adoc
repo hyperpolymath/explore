@@ -1,0 +1,2 @@
+A point cloud is a set of data points in space. The points represent a
+3D shape or object. Each point has its set of X, Y and Z coordinates.

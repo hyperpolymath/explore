@@ -1,0 +1,7 @@
+Factorio is a game in which you build and maintain factories. You will
+be mining resources, researching technologies, building infrastructure,
+automating production and fighting enemies. Add mods to increase your
+enjoyment, from small tweak and helper mods to complete game overhauls,
+Factorio’s ground-up Modding support has allowed content creators from
+around the world to design interesting and innovative features. The game
+runs on Microsoft Windows, macOS and Linux.

@@ -1,0 +1,22 @@
+*https://github.com/Runtimes-Node/Runtime-Node[Runtime Node]* is an open
+source, production-grade Docker base image tailored for executing
+https://github.com/topics/nodejs[Node.js] applications. Managed by
+*https://github.com/Runtimes-Node[Runtimes-Node]*, it provides
+developers with a strictly distroless runtime environment.
+
+Unlike traditional Node.js base images, Runtime Node is assembled
+`+FROM scratch+`. It completely eliminates the operating system layer,
+shells, package managers, and system utilities, retaining only the exact
+binaries required by Node.js.
+
+== Key Characteristics
+
+* *Zero-Bloat:* Radically reduced to ~45 MB compressed.
+* *Hardened Security:* Zero known vulnerabilities and a minimal attack
+surface.
+* *Production Ready:* Pre-configured with `+NODE_ENV=production+` and
+`+TZ=UTC+`.
+* *Multi-Platform:* Supports `+linux/amd64+` and `+linux/arm64+`.
+
+This distroless guarantee ensures code is shipped securely with no
+unnecessary tools to exploit.

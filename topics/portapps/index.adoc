@@ -1,0 +1,4 @@
+*Portapps* is a collection of https://portapps.io/apps/[portable
+applications] for Windows. You can download 📥 your favorite application
+as a portable 🚀 setup or a 7z archive. Each portable app is executed
+through a wrapper `+[appname]-portable.exe+` written in Golang.

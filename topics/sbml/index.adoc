@@ -1,0 +1,6 @@
+SBML (the Systems Biology Markup Language) is an XML-based format for
+communicating and storing representations of biological processes. Its
+aim is to be a lingua franca for representing models in biology. SBML is
+suitable for models commonly found in research on a number of topics,
+including cell signaling pathways, metabolic pathways, biochemical
+reactions, gene regulation, and many others.

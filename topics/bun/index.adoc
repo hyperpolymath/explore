@@ -1,0 +1,14 @@
+*Bun* is an all-in-one JavaScript toolkit, including a runtime, package
+manager, test runner, and bundler.
+
+* https://bun.sh/docs/cli/run[*Runtime*]: Bun is a JavaScript runtime
+built on top of JavaScriptCore, the engine that powers WebKit. It’s
+designed to be a drop-in replacement for Node.js, while being faster and
+improving developer experience. It also includes built-in support for
+TypeScript and JSX.
+* https://bun.sh/docs/cli/install[*Package manager*]: Bun includes a
+package manager that’s vastly quicker than npm and Yarn, and is
+compatible with existing Node.js projects.
+* https://bun.sh/docs/cli/test[*Test runner*]: Bun includes a
+Jest-compatible test runner that uses the Bun runtime. It supports
+TypeScript and JSX, lifecycle hooks, and UI/DOM testing.

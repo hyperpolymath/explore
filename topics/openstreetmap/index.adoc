@@ -1,0 +1,2 @@
+OpenStreetMap provides map data for thousands of web sites, mobile apps,
+and hardware devices.

@@ -1,0 +1,5 @@
+*MediaWiki* is a popular free and open source wiki engine written in
+PHP. It is used by tens of thousands of websites to collect and organize
+knowledge and make it available to people. Many people may be familiar
+with MediaWiki as the software that runs Wikimedia sites such as
+Wikipedia.

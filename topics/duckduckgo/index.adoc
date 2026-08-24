@@ -1,0 +1,3 @@
+DuckDuckGo is an Internet search engine that emphasizes protecting
+searchers’ privacy and avoiding the filter bubble of personalized search
+results.

@@ -1,0 +1,2 @@
+Vanilla JavaScript is the native JavaScript language included in the
+browser and standardized/maintained by ECMA International and W3C.

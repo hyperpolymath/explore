@@ -1,0 +1,4 @@
+Concourse CI/CD is an open source platform which runs on two main Docker
+containers. Once Concourse is installed, all you have to do is to use
+the docker-compose up command to bring up the Concourse server.
+Concourse uses Postgres as its database.

@@ -1,0 +1,3 @@
+Nextra is a nextjs-based static site generation framework using markdown
+and MDX. Nextra framework is specially built to create markdown-based
+documentation and portfolio blogs without coding using MDX and markdown.

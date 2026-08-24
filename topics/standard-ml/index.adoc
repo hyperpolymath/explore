@@ -1,0 +1,13 @@
+Standard ML (SML; "`Standard Meta Language`") is a general-purpose,
+modular, functional programming language with compile-time type checking
+and type inference. It is popular among compiler writers and programming
+language researchers, as well as in the development of theorem provers.
+
+SML is a modern dialect of
+https://en.wikipedia.org/wiki/ML_(programming_language)[ML], the
+programming language used in the
+https://en.wikipedia.org/wiki/Logic_for_Computable_Functions[Logic for
+Computable Functions] theorem-proving project. It is distinctive among
+widely used languages in that it has
+https://github.com/SMLFamily/The-Definition-of-Standard-ML-Revised[a
+formal specification].

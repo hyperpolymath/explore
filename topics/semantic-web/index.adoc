@@ -1,0 +1,14 @@
+The Semantic Web is an extension of the World Wide Web through standards
+set by the https://github.com/topics/w3c[World Wide Web Consortium
+(W3C)]. The goal of the Semantic Web is to make Internet data
+machine-readable.
+
+This can be seen in various aspects of web development, one being
+https://github.com/topics/semantic-html[semantic HTML] as a way to give
+your https://github.com/topics/markup[markup] meaning,
+https://github.com/topics/microformats[microformats] like
+https://github.com/topics/schema-org[schema.org] or
+https://github.com/topics/linked-data[linked-data] like
+https://github.com/topics/json-ld[json-ld]. Another aspect is from the
+opposite perspective: Reading and interpreting data. This can be done
+with metadata via https://github.com/topics/rdf[RDF].

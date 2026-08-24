@@ -1,0 +1,3 @@
+PSR-7 is a set of common interfaces defined by PHP Framework Interop
+Group. These interfaces are representing HTTP messages, and URIs for use
+when communicating through HTTP.

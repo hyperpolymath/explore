@@ -1,0 +1,2 @@
+styled-components is a JavaScript library that makes styling React apps
+enjoyable using the best bits of ES6 and CSS.

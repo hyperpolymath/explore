@@ -1,0 +1,3 @@
+Vim is a highly customizable text editor that can run in a shell. Bram
+Moolenaar is credited with the development of Vim, which he began in
+1988.

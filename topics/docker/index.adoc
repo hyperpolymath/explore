@@ -1,0 +1,3 @@
+*Docker* is software that provides containers, which allows teams to
+emulate development environments. It began as an internal project,
+initially developed by dotCloud engineers.

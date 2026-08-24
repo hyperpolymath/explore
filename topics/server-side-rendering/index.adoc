@@ -1,0 +1,4 @@
+When doing *server-side rendering*, in contrast to
+https://github.com/topics/client-side-rendering[client-side rendering]
+the content of a webpage is prepared on the server and by the use of
+hydration made usable by the client.

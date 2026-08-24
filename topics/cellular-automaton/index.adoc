@@ -1,0 +1,17 @@
+A *cellular automaton* is a discrete
+https://en.wikipedia.org/wiki/Model_of_computation[model of computation]
+studied in https://en.wikipedia.org/wiki/Automata_theory[automata
+theory]. It consists of a regular grid of cells, each in one of a finite
+number of states; a new generation is created according to some fixed
+rule that determines the new state of each cell in terms of the current
+state of the cell and its neighborhood. Typically, the rule for updating
+the state of cells is the same for each cell and does not change over
+time, and is applied to the whole grid simultaneously, though exceptions
+are known, such as the
+https://en.wikipedia.org/wiki/Stochastic_cellular_automaton[stochastic
+cellular automaton] and
+https://en.wikipedia.org/wiki/Asynchronous_cellular_automaton[asynchronous
+cellular automaton].
+
+A well-known cellular automaton is
+https://github.com/topics/conways-game-of-life[Conway’s Game of Life].

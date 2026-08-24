@@ -1,0 +1,7 @@
+*Behavior-driven development* (*BDD*) is a test-first, agile testing
+practice. Without focusing on internal implementation, BDD tests are
+business-facing scenarios that attempt to describe the behavior of a
+story, feature, or capability from a user’s perspective.
+Behaviour-driven development is a synthesis and refinement of practices
+stemming from test-driven development (TDD) and acceptance-test-driven
+development (ATDD).

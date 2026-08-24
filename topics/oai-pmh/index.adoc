@@ -1,0 +1,4 @@
+The OAI Protocol for Metadata Harvesting (OAI-PMH) is an API using XML
+over HTTP to retrieve metadata about archived digital publications. It
+allows to get record updates in Dublin Core and other metadata formats.
+In contrast to RSS and ATOM Feeds, updates can also be selected by date.

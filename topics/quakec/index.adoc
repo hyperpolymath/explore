@@ -1,0 +1,2 @@
+Quakec is a 1996 programming language created exclusively for the game
+Quake, by John Carmack.

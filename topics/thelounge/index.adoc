@@ -1,0 +1,4 @@
+The Lounge is a modern web IRC (Internet Relay Chat) client designed to
+be self-hosted. It is cross-platform, runs in the browser, and keeps IRC
+connections open when clients are closed. It is built with JavaScript
+and Node.js.

@@ -1,0 +1,4 @@
+FreeSWITCH is a multi-platform open source application server for
+real-time communication supporting many protocols and enables
+interoperability among them. It is widely deployed by telecommunications
+providers, contact centers as well as embedded into appliances.

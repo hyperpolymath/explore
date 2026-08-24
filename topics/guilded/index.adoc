@@ -1,0 +1,5 @@
+Guilded is a VoIP and chat service that is usually seen as an
+alternative or competitor to https://github.com/topics/discord[Discord].
+Guilded tends to push primarily gaming-centric features. They
+https://www.guilded.gg/blog/guilded-api[publicized their developer API]
+in 2022.

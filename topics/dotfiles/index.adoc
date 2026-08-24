@@ -1,0 +1,8 @@
+Legend goes, that dotfiles were invented when `+ls+` used to skip files
+and directories starting with a `+.+` (dot). As a result, files that
+begin with such a character were not shown when listing using `+ls+` —
+i.e. it was a "`hidden`" file. Since dotfiles are usually user-specific,
+a predestined place for them is the `+$HOME+` directory.
+
+Commonly used files are for example: `+.bashrc+`, `+.zshrc+` or
+`+.vimrc+`.

@@ -1,0 +1,8 @@
+*Postman* is an API platform for developers for building and using APIs.
+This tool cannot only make requests with different HTTP verbs to
+different URLs, it also offers * using variables (collection,
+environment, etc.) in different places (path, query string, etc.) *
+Collections: Group requests in folders, export collections and write
+documentation for them * Scripting: Modify the request before sending as
+well as test and visualize its results * Design APIs: Create OpenAPI
+schema files and store them in your version control system

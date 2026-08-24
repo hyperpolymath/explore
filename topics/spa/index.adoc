@@ -1,0 +1,11 @@
+*Single-page applications* (*SPA*) are client-side applications that
+don’t route via different pages but rather combine the logic for
+different contents into one page. This was historically achieved via
+hashbang URI fragments (`+#!+`). With the introduction of the
+https://developer.mozilla.org/en-US/docs/Web/API/History/pushState[`+pushState+`
+API], this state can now be properly used within the browser history, in
+bookmarks and sharing.
+
+Another important point for SPA was the lack of proper
+https://github.com/topics/seo[SEO] but developers and frameworks found
+ways around that.

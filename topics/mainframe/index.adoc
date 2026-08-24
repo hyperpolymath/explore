@@ -1,0 +1,5 @@
+A mainframe is a powerful computer system designed for processing large
+data volumes, supporting multiple users & applications. Known for
+reliability, security, and scalability, they’re vital in industries like
+finance & insurance. Typical languages include COBOL, PL/I, and
+Assembly, with Java and Python gaining popularity.

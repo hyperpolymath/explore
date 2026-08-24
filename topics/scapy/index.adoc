@@ -1,0 +1,4 @@
+Scapy is a powerful Python-based interactive packet manipulation program
+and library. It is able to forge or decode packets of a wide number of
+protocols, send them on the wire, capture them, store or read them using
+pcap files, match requests and replies, and much more.

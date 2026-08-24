@@ -1,0 +1,4 @@
+chezmoi helps you manage your personal configuration files (aka
+dotfiles) across multiple machines. It is written in Go and provides
+various features like templates, password manager support, file
+encryption and scripts.

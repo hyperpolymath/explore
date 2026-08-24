@@ -1,0 +1,13 @@
+Algolia is Open source tools for building search. You can install the
+search engine on your own servers, using the open source version, or
+instead use its scalable, flexible, cloud-hosted solution in PaaS/SaaS
+format.
+
+Its algorithm and architecture allows a very fast search for relevant
+information, according to configurable parameters, even when actually
+storing terabytes of information. It is fully scalable, allowing for
+virtually unlimited growth.
+
+Algolia is a hosted API for building search into web and mobile
+applications, with typo-tolerance, fully configurable relevance, and
+other tools for making great search experiences.

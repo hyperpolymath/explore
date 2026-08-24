@@ -1,0 +1,4 @@
+nginx is an HTTP and reverse proxy server, a mail proxy server, and a
+generic TCP/UDP proxy server. Nginx was written with an explicit goal of
+provide high performance on sites with high traffic, so it can be used
+as a reverse proxy, load balancer and HTTP cache.

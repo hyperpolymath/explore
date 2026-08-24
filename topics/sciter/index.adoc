@@ -1,0 +1,4 @@
+Sciter brings a stack of web technologies to desktop UI development. It
+allows web designers and developers to reuse their experience and
+expertise for creating modern-looking desktop applications with an
+engine only a few megabytes in size.

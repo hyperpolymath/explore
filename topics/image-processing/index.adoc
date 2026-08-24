@@ -1,0 +1,2 @@
+Digital image processing is the use of algorithms to make computers
+analyze the content of digital images.

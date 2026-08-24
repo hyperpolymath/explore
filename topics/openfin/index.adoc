@@ -1,0 +1,3 @@
+OpenFin is a web application runtime and API that brings native user
+experience and interoperability to web applications. Built on Chromium,
+OpenFin brings the latest in web standards to the Financial community.

@@ -1,0 +1,4 @@
+TIC-80 is a tiny computer which you can use to make, play, and share
+tiny games. There are built-in tools for development: code, sprites,
+maps, sound editors, and a command line, which is enough to create a
+mini retro game.

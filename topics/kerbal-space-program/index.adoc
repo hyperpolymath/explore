@@ -1,0 +1,4 @@
+Published by Squad, Kerbal Space Program is a game in which players
+direct a space program. The game features a realistic orbital physics
+engine, allowing for various real-life orbital maneuvers such as Hohmann
+transfer orbits and bi-elliptic transfer orbits.

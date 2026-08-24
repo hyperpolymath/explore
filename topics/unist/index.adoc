@@ -1,0 +1,3 @@
+unist is a specification for syntax trees. It has a big ecosystem of
+utilities in JavaScript for working with these trees. It’s implemented
+by several other specifications.

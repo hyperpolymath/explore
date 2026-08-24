@@ -1,0 +1,4 @@
+YOURLS is a set of PHP scripts that will allow you to run Your Own URL
+Shortener, on your server. You’ll have full control over your data,
+detailed stats, analytics, plugins, and more. It’s free, open source,
+and taken care of by a community of 100+ contributors.

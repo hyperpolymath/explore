@@ -1,0 +1,5 @@
+Sui is a decentralized, permissionless blockchain designed for instant
+finality, low latency, and high throughput. It uses the Move programming
+language to enable scalable and secure smart contract development, and
+introduces a novel object-centric model that allows parallel transaction
+execution.

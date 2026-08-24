@@ -1,0 +1,1 @@
+Computer software that attempts to accurately simulate auto racing.

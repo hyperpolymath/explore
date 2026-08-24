@@ -1,0 +1,3 @@
+Spec-compliant and production ready JavaScript GraphQL server that lets
+you develop in a schema-first way. Built for Express, Connect, Hapi,
+Koa, and more.

@@ -1,0 +1,2 @@
+UTAU is a freeware singing synthesis platform which allows you to create
+your custom voicebanks, synthesizer engines and plugins.

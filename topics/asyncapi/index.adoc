@@ -1,0 +1,7 @@
+The *AsyncAPI Specification* (*AAS*), is a specification for a
+programming language-agnostic, machine-readable interface definition
+language for describing, producing, consuming, and visualizing
+event-driven services.
+
+AsyncAPI documents describe API services and are represented in YAML or
+JSON formats.

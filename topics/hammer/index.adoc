@@ -1,0 +1,2 @@
+Hammer editor is a tool created by valve software in 2004 to creating
+custom levels for the source 1 games.

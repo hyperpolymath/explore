@@ -1,0 +1,2 @@
+`+musicxml+` is a file format used to represent musical notation in xml.
+It is supported by several sheet music editors.

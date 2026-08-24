@@ -1,0 +1,5 @@
+Deployer is a CLI tool for deployment of any PHP applications, including
+frameworks such as Laravel, Symfony, Zend Framework, and
+https://github.com/deployphp/deployer/tree/master/recipe[many more]. It
+features zero downtime deployments, parallel execution, a simple setup
+process, and a minimal learning curve.

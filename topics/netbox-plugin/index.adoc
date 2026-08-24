@@ -1,0 +1,3 @@
+In version 2.8.0, NetBox released the plugin feature. NetBox plugins can
+be used to extend NetBox’s functionality beyond what the core product
+provides.

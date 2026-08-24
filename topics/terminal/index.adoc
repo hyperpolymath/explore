@@ -1,0 +1,4 @@
+Terminal is a serial computer interface for text entry and display.
+Instruction given to perform a task are called commands. Current
+computers (GUI based) uses terminal emulators such as Unix shell, BASH
+shell, command prompt.

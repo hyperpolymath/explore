@@ -1,0 +1,4 @@
+The term SDK stands for software development kit. It is a collection of
+tools that allow developers to build software for specific platforms. An
+SDK can consist of (but is not limited to) a compiler, debugger,
+libraries, documentation, and code samples.

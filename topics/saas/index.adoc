@@ -1,0 +1,4 @@
+Instead of hosting software using a web hosting service or inhouse
+solution, *software as a service* doesn’t just provide a software
+solution but it also comes shipped on a server, accessible through the
+cloud, usually shared with other tenants.

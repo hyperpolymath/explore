@@ -1,0 +1,4 @@
+Garry’s Mod (often abbreviated as GMod) is a sandbox game developed by
+Facepunch Studios and published by Valve. The game has a rich Lua
+scripting API which allows for a wide range of game mods and
+conversions.

@@ -1,0 +1,8 @@
+CSG is short for Constructive Solid Geometry, a modeling technique that
+allows a modeler to create a complex surface or object by using
+https://en.wikipedia.org/wiki/Boolean_data_type[Boolean]
+https://en.wikipedia.org/wiki/Operator_(programming)[operators], such as
+union and intersection, to combine
+https://en.wikipedia.org/wiki/Geometric_primitive[simpler objects].
+
+Text above are from wikipedia.

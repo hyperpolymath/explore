@@ -1,0 +1,2 @@
+Id Tech is a game engine developed by id Software in 1993, known for
+running games such as Doom, Hexen, and Quake.

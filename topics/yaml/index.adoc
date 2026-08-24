@@ -1,0 +1,3 @@
+*YAML* is a human-friendly data serialization standard for all
+programming languages. YAML is a recursive acronym which stands for
+"`YAML Ain’t Markup Language`". It is commonly used for configurations.

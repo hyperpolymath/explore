@@ -1,0 +1,3 @@
+A *design system* is a way to have modular and reusable CSS components
+as well as a separation of concerns of designing and using this system,
+by, for examplr, using design tokens.

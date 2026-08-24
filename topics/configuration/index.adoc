@@ -1,0 +1,4 @@
+Configuration describes the arrangement of function details and
+information that is stored and used to affect the operation of a
+computer program. This includes settings and options, organization of
+components, dependencies, environments, etc.

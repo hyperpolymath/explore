@@ -1,0 +1,7 @@
+DMX512 (for Digital Multiplex with 512 pieces of information) is a
+standard for digital communication networks that are commonly used to
+control lighting and effects. It was created in 1986 by the
+http://www.usitt.org/[United States Institute for Theatre Technology]
+and later revised as an ANSI standard by the
+https://www.esta.org/[Entertainment Services and Technology
+Association].

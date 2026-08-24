@@ -1,0 +1,4 @@
+Credo can show you refactoring opportunities in your code, complex code
+fragments, warn you about common mistakes, show inconsistencies in your
+naming scheme, and - if needed - help you enforce a desired coding
+style.

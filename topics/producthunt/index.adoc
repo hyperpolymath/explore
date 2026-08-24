@@ -1,0 +1,4 @@
+Product Hunt is an American website that lets users share and discover
+new products. The site, which was founded by Ryan Hoover in November
+2013, is backed by Y Combinator. Users submit products, which are listed
+in a linear format by day.

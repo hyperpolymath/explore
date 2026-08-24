@@ -1,0 +1,12 @@
+*Google Groups* is a service from Google that provides discussion groups
+for people sharing common interests. The Groups service also provides a
+gateway to Usenet newsgroups, both reading and posting to them, via a
+shared user interface. In addition to accessing Google and Usenet
+groups, registered users can also set up mailing list archives for
+e-mail lists that are hosted elsewhere
+
+== Other resources
+
+* Read the API documentation at
+https://cloud.google.com/identity/docs/groups
+* Access the application at https://groups.google.com

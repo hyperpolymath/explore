@@ -1,0 +1,3 @@
+The *AT Protocol* (Authenticated Transfer Protocol, pronounced
+"`at-protocol`" and commonly shortened to ATProto) is a protocol and
+open standard for decentralized social networking services.

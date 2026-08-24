@@ -1,0 +1,5 @@
+The Raspberry Pi is a popular single-board computer designed to promote
+the teaching of computer science in schools. The use of the Raspberry Pi
+computer ranges from robotics to home automation. Many variations of the
+Raspberry Pi exist, such as the Raspberry Pi Zero, which is smaller than
+the more powerful Raspberry Pi 4.

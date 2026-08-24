@@ -1,0 +1,4 @@
+Reason gives OCaml a familiar syntax geared toward JavaScript
+programmers, and caters to the existing NPM/Yarn workflow folks already
+know. In that regard, Reason can be considered as a solidly, statically
+typed, faster, and simpler cousin of JavaScript.

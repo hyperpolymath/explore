@@ -1,0 +1,2 @@
+CWL documents describe workflows made of command line data analysis
+tools in a portable, reproducible, and reusable fashion.

@@ -1,0 +1,3 @@
+*RSS* (**R**DF **S**ite **S**ummary or **R**eally **S**imple
+**S**yndication) is a web feed that allows users and applications to
+access updates to websites in a standardized, computer-readable format.

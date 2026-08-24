@@ -1,0 +1,4 @@
+Quarkus is a full-stack, Kubernetes-native, Java Framework tailored for
+OpenJDK HotSpot and GraalVM. Comparatively, to other frameworks, such as
+Spring, it offers small memory footprint and reduced boot time. It
+allows to combine both imperative code and non-blocking reactive style.

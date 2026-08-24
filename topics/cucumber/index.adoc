@@ -1,0 +1,5 @@
+*Cucumber* is a software tool that supports behavior-driven development.
+Central to the Cucumber BDD approach is its ordinary language parser
+Gherkin. As such, Cucumber allows the execution of feature documentation
+written in business-facing text. It runs automated acceptance tests
+written in a behavior-driven development (BDD) style.

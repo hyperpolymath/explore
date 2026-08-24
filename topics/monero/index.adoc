@@ -1,0 +1,4 @@
+Monero is a cryptocurrency focused on privacy, decentralization and
+scalability. Unlike many cryptocurrencies, Monero is based on CryptoNote
+protocol and possesses significant algorithmic differences relating to
+blockchain obfuscation.

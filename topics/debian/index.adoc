@@ -1,0 +1,2 @@
+Debian, also known as Debian Linux, is a GNU/Linux distribution composed
+of open source software, developed by the Debian Project.

@@ -1,0 +1,3 @@
+*ActivityPub* is a decentralized social networking protocol standardized
+by the World Wide Web Consortium (W3C). It includes both an API for
+social networking clients and an API for server-server federation.

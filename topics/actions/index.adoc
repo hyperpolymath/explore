@@ -1,0 +1,38 @@
+GitHub Actions gives you the flexibility to build an automated software
+development lifecycle workflow. You can write individual tasks, called
+actions, and combine them to create a custom workflow. Workflows are
+custom automated processes that you can set up in your repository to
+build, test, package, release, or deploy any code project on GitHub.
+
+"`With GitHub Actions you can build end-to-end continuous integration
+(CI) and continuous deployment (CD) capabilities directly in your
+repository. GitHub Actions powers GitHub’s built-in continuous
+integration service. For more information,
+see`"https://help.github.com/en/github/automating-your-workflow-with-github-actions/about-continuous-integration[About
+continuous integration.]”
+
+== Featured Actions
+
+* https://github.com/actions/stale[actions/stale]
+* https://github.com/peaceiris/actions-gh-pages[peaceiris/actions-gh-pages]
+* https://github.com/softprops/action-gh-release[softprops/action-gh-release]
+* https://github.com/toolmantim/release-drafter[toolmantim/release-drafter]
+
+== Getting Started
+
+* https://lab.github.com/github/hello-github-actions![Hello GitHub
+Actions]
+* https://lab.github.com/githubtraining/github-actions:-continuous-delivery[GitHub
+Actions: Continuous Delivery]
+* https://help.github.com/en/actions/automating-your-workflow-with-github-actions/creating-a-javascript-action[JavaScript]
+* https://dev.to/mscccc/build-a-github-action-with-ruby-3nln[Ruby]
+* https://svartalf.info/posts/2019-09-16-github-actions-for-rust/[Rust]
+
+=== Community & Support
+
+* https://help.github.com/en/github/automating-your-workflow-with-github-actions/about-github-actions[Help
+Documentation]
+* https://github.community/t5/GitHub-Actions/bd-p/actions[GitHub Actions
+Community Forum]
+
+*Taking Action With GitHub Actions*

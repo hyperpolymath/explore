@@ -1,0 +1,16 @@
+A userscript is a kind of lightweight and less privileged browser
+extension written in JavaScript used to modify webpages. Userscripts may
+use the special API, usually referred as
+https://wiki.greasespot.net/Greasemonkey_Manual:API[`+GM_API+`],
+allowing them to bypass
+https://en.wikipedia.org/wiki/Same-origin_policy[same-origin policy] and
+store data in separate storage not accessible to web pages. The
+technology was initially introduced in the
+https://github.com/greasemonkey/greasemonkey[GreaseMonkey] extension for
+https://www.mozilla.org/firefox/[Firefox web browser], and then spread
+to other browsers, sometimes built-in, like in
+https://en.wikipedia.org/wiki/Presto_(layout_engine)[Presto-based
+Opera], sometimes with help of extensions, like in
+https://www.chromium.org[Chromium]-based browsers. The most famous
+catalogs of userscripts are https://greasyfork.org/[GreasyFork] and
+https://openuserjs.org/[OpenUserJS].

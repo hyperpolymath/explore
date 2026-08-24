@@ -1,0 +1,10 @@
+Common Lisp is a general-purpose programming language in the Lisp
+language family. Its syntax is defined on top of s-expressions, however
+it can be extended through the use of reader macros. It supports
+compile-time meta-programming through the use of macros. It supports the
+OOP paradigm through the Common Lisp Object System. The API upon which
+CLOS is implemented is exposed to the programmer so they can extent the
+object system. This API is referred as the Meta-Object Protocol. There
+are multiple implementations available: SBCL, which generates fast code,
+CCL, which compiles code fast, ABCL, which runs on the JVM, JSCL which
+runs on Node, and the browser, etc.

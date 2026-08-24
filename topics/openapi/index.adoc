@@ -1,0 +1,5 @@
+The *OpenAPI Specification* (*OAS*), previously known as the *Swagger
+Specification*, is a specification for a programming language-agnostic,
+machine-readable interface definition language for describing,
+producing, consuming, and visualizing web services. OpenAPI documents
+describe API services and are represented in YAML or JSON formats.

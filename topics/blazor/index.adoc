@@ -1,0 +1,2 @@
+Blazor is a .NET-based web application framework that allows developers
+to create single-page applications with C#, Razor, and HTML.

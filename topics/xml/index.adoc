@@ -1,0 +1,4 @@
+XML stands for Extensible Markup Language and is a text-based markup
+language. It is designed to store and transport data. It allows
+developers to create their own self-descriptive tags, or language, that
+suits their application.

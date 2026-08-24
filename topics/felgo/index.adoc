@@ -1,0 +1,6 @@
+Felgo is a cross-platform application development SDK, based on the Qt
+framework and greatly extending it. With Felgo, you can create modern,
+flexible & beautiful applications, compiled natively from a single
+code-base. Speed up your development with hot reload and more
+cutting-edge tooling for all supported platforms (Android, iOS, Desktop,
+Web & Embedded).

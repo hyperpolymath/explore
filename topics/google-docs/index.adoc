@@ -1,0 +1,10 @@
+*Google Docs* is an online word processor included as part of the free,
+web-based Google Docs Editors suite offered by Google. It supports
+opening and saving documents in the standard OpenDocument format as well
+as in Rich text format, plain Unicode text, zipped HTML, and Microsoft
+Word. Exporting to PDF and EPUB formats is implemented.
+
+== Other resources
+
+* Read the API documentation at https://developers.google.com/docs
+* Access the application at https://docs.google.com

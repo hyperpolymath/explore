@@ -1,0 +1,5 @@
+OpenComputers is a https://github.com/topics/minecraft[Minecraft] mod
+that adds programmable computers and robots to the game. The built-in
+computer implementation uses https://github.com/topics/lua[Lua] 5.2 and
+is fully persistent. This means programs will continue running across
+reloads.

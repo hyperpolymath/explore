@@ -1,0 +1,4 @@
+Avalonia supports Windows, Linux and OSX with experimental mobile
+support for Android and iOS. Avalonia uses a XAML dialect that should
+feel immediately familiar to anyone coming from WPF, UWP and Xamarin
+Forms.

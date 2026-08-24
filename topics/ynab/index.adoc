@@ -1,0 +1,8 @@
+YNAB stands for "`You Need a Budget,`" a personal finance app and
+methodology that helps people manage money using a zero-based budgeting
+system. Every dollar is assigned a category within your plan. YNAB
+focuses on building better spending and saving habits, rather than
+analyzing all financial data.
+
+Learn more at https://www.ynab.com/[ynab.com] or explore the
+https://api.ynab.com/[YNAB API].

@@ -1,0 +1,4 @@
+PHP-Fusion is an all in one integrated and scalable platform a
+lightweight open source content management system (CMS) written in PHP
+that will fit any purpose when it comes to website productions, whether
+you are creating community portals or personal sites.

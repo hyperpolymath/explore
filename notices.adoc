@@ -1,0 +1,26 @@
+== Licenses
+
+Content is copyrighted © by Explore content authors, released under
+https://creativecommons.org/licenses/by/4.0/[CC-BY-4.0], which gives you
+permission to use the content for almost any purpose (but does not grant
+you any trademark permissions), so long as you note the license and give
+credit, such as follows:
+
+____
+Content based on
+https://github.com/github/explore[github.com/github/explore] used under
+the https://creativecommons.org/licenses/by/4.0/[CC-BY-4.0] license.
+____
+
+____
+Code, including source files and code samples if any in the content, is
+released under the
+https://creativecommons.org/publicdomain/zero/1.0/[CC0-1.0] license.
+____
+
+This means you can use the code and content in this repository except
+for GitHub trademarks in your own projects. When using the GitHub logos,
+be sure to follow the https://github.com/logos[GitHub logo guidelines].
+
+When you contribute to this repository you are doing so under the above
+licenses.

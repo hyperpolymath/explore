@@ -1,0 +1,5 @@
+CC: Tweaked is a mod for https://github.com/topics/minecraft[Minecraft]
+which adds programmable computers, turtles and more to the game. A fork
+of the much-beloved
+https://github.com/topics/computercraft[ComputerCraft], it continues its
+legacy with better performance, stability, and a wealth of new features.

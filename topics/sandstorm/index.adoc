@@ -1,0 +1,5 @@
+Sandstorm is a self-hostable web productivity suite. It’s implemented as
+a security-hardened web app package manager. Sandstorm makes it easy to
+run your own server. Numerous Sandstorm-first applications, packages of
+well-known web apps, and various supporting development tools and
+libraries can be found here.

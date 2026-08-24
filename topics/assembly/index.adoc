@@ -1,0 +1,3 @@
+Assembly is a low-level programming language in which there is a very
+strict correspondence between language instructions and architecture
+machine code instructions.

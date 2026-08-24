@@ -1,0 +1,4 @@
+Quick Look is a quick preview feature developed by Apple Inc. which was
+introduced in its operating system Mac OS X 10.5 Leopard. Comparing to
+preview pane in Finder, Quick Look allows users to look at the contents
+of a file at full or near-full size.

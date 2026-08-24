@@ -1,0 +1,3 @@
+Molecular dynamics allows the atoms and molecules to interact for a
+fixed period of time, giving a view of the dynamic "`evolution`" of the
+system.

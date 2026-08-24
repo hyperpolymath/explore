@@ -1,0 +1,3 @@
+Game Off is a month-long game jam celebrating open source. Each
+November, game developers are challenged to create a game based on a
+theme and share it (and the source) with the world.

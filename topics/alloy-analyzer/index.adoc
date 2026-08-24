@@ -1,0 +1,7 @@
+In computer science and software engineering, Alloy is a declarative
+specification language for expressing complex structural constraints and
+behavior in a software system. Alloy provides a simple structural
+modeling tool based on first-order logic. Alloy is targeted at the
+creation of micro-models that can then be automatically checked for
+correctness. Alloy specifications can be checked using the Alloy
+Analyzer.

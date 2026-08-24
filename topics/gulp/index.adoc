@@ -1,0 +1,3 @@
+Gulp is an open source toolkit built on Node.js and npm. It is used for
+automating and streamlining repetitive tasks in front-end web
+development.

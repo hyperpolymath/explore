@@ -1,0 +1,3 @@
+Bedrock Dedicated Servers allow Minecraft players on Windows and Linux
+computers to set up their own server at home, or host their server using
+a cloud-based service.

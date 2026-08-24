@@ -1,0 +1,4 @@
+Browser extensions are small software modules that customize and extend
+the functionality of web browsers. They can modify browser behavior,
+enhance user interfaces, integrate third-party services, and automate
+workflows directly within the browsing experience.

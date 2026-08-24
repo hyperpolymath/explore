@@ -1,0 +1,2 @@
+The Z shell (Zsh) is an extended Bourne shell with a large number of
+improvements and additional features.

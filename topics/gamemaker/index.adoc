@@ -1,0 +1,4 @@
+GameMaker Studio is a cross-platform game engine developed by YoYo
+Games. It is primarily used to make 2D games via a drag-and-drop visual
+programming language or a scripting language known as Game Maker
+Language.

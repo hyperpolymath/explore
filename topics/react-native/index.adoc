@@ -1,0 +1,3 @@
+React Native is a JavaScript mobile framework developed by Facebook. It
+allows developers to build Android and iOS mobile apps using JavaScript
+and reuse code across web and mobile applications.

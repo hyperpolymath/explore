@@ -1,0 +1,3 @@
+Crystal is a programming language with friendly syntax, static type
+checking and modern stdlib. It compiles into efficient,
+easy-to-distribute native code.

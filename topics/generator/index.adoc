@@ -1,0 +1,7 @@
+*Generators* are devices that convert mechanical energy into electrical
+energy, playing a crucial role in providing electricity for residential,
+commercial, and industrial uses. This topic explores different types of
+generators, such as diesel, gas, and renewable energy generators like
+wind and hydro. It also covers the principles of electromagnetic
+induction, generator design, maintenance, and the impact of generators
+on energy sustainability and reliability.

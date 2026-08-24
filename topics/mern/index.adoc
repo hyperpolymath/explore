@@ -1,0 +1,5 @@
+*MERN* is a source-available JavaScript solution stack/software bundle,
+consisting of the following components: *
+link:/topics/mongodb[**M**ongoDB] *
+link:/topics/expressjs[**E**xpress.js] *
+link:/topics/reactjs[**R**eact.js] * link:/topics/nodejs[**N**ode.js]
