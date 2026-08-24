@@ -1,0 +1,3 @@
+Guix is a powerful package manager for Linux and other Unix systems that
+makes package management reliable and reproducible. Please refer to the
+https://nixos.org/guix/manual[Guix manual] for more details.

@@ -1,0 +1,3 @@
+VBA is an implementation of Microsoft’s event-driven programming
+language Visual Basic 6.0 built into most desktop Microsoft Office
+applications and some third-party applications.

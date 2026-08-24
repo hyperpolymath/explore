@@ -1,0 +1,3 @@
+Linux Mint is a community-driven Linux distribution based on Ubuntu
+(which is in turn based on Debian), bundled with a variety of free and
+open source applications.

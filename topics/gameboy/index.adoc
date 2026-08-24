@@ -1,0 +1,4 @@
+The Game Boy was a line of handheld gaming devices created and sold by
+Nintendo. Typically development of the Game Boy done today includes
+homebrew games, emulator building, and preserving code and coding
+techniques.

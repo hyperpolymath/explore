@@ -1,0 +1,4 @@
+https://aka.ms/kiota[Kiota] is a modern client code generator for REST
+APIs. https://aka.ms/kiota/addapi[Add your OpenAPI description] so any
+developer can find your API, explore it, and generate a client to start
+calling it.

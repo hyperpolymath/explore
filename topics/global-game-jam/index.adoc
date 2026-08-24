@@ -1,0 +1,8 @@
+The Global Game Jam (GGJ) is an annual distributed game jam. Inspired by
+the Nordic Game Jam, and created by Susan Gold, Ian Schreiber and Gorm
+Lai, originally developed under the International Game Developers
+Association Education SIG to bring together the elements of creativity,
+collaboration and experimentation. At each site, participants gather to
+develop ideas, form small groups, create new, creative, innovative
+games, and present them to their peers and the global community, all in
+a limited time span.

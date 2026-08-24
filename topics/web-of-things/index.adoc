@@ -1,0 +1,5 @@
+The Web of Things (WoT) seeks to counter the fragmentation of the IoT by
+using and extending existing, standardized Web technologies. By
+providing standardized metadata and other reusable technological
+building blocks, W3C WoT enables easy integration across IoT platforms
+and application domains.

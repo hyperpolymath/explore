@@ -1,0 +1,3 @@
+PureScript is a strongly-typed, purely-functional programming language
+that compiles to JavaScript. It can be used to develop web applications,
+server side apps, and also desktop applications with use of Electron.

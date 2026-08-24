@@ -1,0 +1,4 @@
+The Experimental Physics and Industrial Control System (EPICS) is a set
+of software tools and applications used to develop and implement
+distributed control systems to operate devices such as particle
+accelerators, telescopes and other large experiments.

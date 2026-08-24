@@ -1,0 +1,2 @@
+EMQX is a scalable and popular open source MQTT broker with a high
+performance that connects 100M+ IoT devices in 1 cluster at 1ms latency.

@@ -1,0 +1,5 @@
+Generative adversarial networks (GAN) are a class of generative machine
+learning frameworks. A GAN consists of two competing neural networks,
+often termed the Discriminator network and the Generator network. GANs
+have been shown to be powerful generative models and are able to
+successfully generate new data given a large enough training dataset.

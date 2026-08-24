@@ -1,0 +1,6 @@
+Eclipse Vert.x is a toolkit for writing reactive polyglot applications
+for the JVM. Vert.x comes with an extensive reactive ecosystem that is
+modular, performant, and easy to use. Developers can build many kinds of
+applications such as soft realtime web applications, microservices, IoT
+applications, protocol adapters, and distributed applications thanks to
+the wide variety of this ecosystem.

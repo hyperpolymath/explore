@@ -1,0 +1,2 @@
+ENS offers a decentralised way to address resources both on and off the
+blockchain using simple, human-readable names.

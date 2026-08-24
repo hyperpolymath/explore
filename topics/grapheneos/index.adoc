@@ -1,0 +1,7 @@
+GrapheneOS is a free and open source privacy and security focused based
+on the Android Open Source Project (AOSP). It deploys a hardened kernel,
+https://github.com/GrapheneOS/hardened_malloc[hardened memory
+allocator], https://github.com/GrapheneOS/platform_bionic[C library],
+https://github.com/GrapheneOS/platform_system_sepolicy[SELinux
+policies], https://github.com/GrapheneOS/Vanadium[WebView&#44; and
+Chromium-based browser (Vanadium)].

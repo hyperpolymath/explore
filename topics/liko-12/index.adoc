@@ -1,0 +1,3 @@
+LIKO-12 is an open source fantasy computer completely written in the Lua
+programming language where you can make, play and share tiny
+retro-looking games and programs.

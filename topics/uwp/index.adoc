@@ -1,0 +1,3 @@
+Universal Windows Platform (UWP) is an API that allows developers to
+create cross-platform applications that are able to run on Windows 10,
+Windows 10 Mobile, Xbox One and HoloLens.

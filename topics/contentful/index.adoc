@@ -1,0 +1,4 @@
+Contentful is a content infrastructure that is disrupting the legacy CMS
+market by offering a new way to power content in any digital product –
+website, app, or device. It’s purpose-built to integrate with the modern
+software stack and software delivery pipelines

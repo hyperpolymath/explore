@@ -1,0 +1,4 @@
+Remix stacks are production-ready
+https://remix.run/docs/en/main/guides/templates[remix templates] that
+have things like CI/CD pipelines, databases and hosting platforms baked
+in.

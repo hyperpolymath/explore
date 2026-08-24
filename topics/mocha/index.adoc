@@ -1,0 +1,31 @@
+*Mocha* is a JavaScript test framework for Node.js programs, featuring
+browser support, asynchronous testing, test coverage reports, and use of
+any assertion library.
+
+== Assertation styles
+
+* assert
+* expect
+* should
+
+== Methologies
+
+* TDD
+* BDD
+
+== Reporting styles
+
+* spec
+* dot matrix
+* https://github.com/topics/testanythingprotocol[TAP]
+* JSON
+* HTML
+* https://github.com/topics/xunit[XUnit]
+* https://mochajs.org/#reporters[_more …_]
+
+== Features
+
+* https://github.com/topics/async-await[`+async+`/`+await+`]
+* https://github.com/topics/es6-modules[Native ES modules]
+* https://github.com/topics/sourcemaps[source map support]
+* https://mochajs.org/#features[_more …_]

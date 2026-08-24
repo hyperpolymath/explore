@@ -1,0 +1,9 @@
+RIOT powers the Internet of Things like Linux powers the Internet. RIOT
+is a free, open source operating system developed by a grassroots
+community gathering companies, academia, and hobbyists, distributed all
+around the world.
+
+RIOT supports most low-power IoT devices and microcontroller
+architectures (32-bit, 16-bit, 8-bit). RIOT aims to implement all
+relevant open standards supporting an Internet of Things that is
+connected, secure, durable, and privacy-friendly.

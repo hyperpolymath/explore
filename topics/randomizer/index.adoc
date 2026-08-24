@@ -1,0 +1,2 @@
+Randomizer is a type of tool that uses unpredictable or stochastic
+inputs as part of software development.

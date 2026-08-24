@@ -1,0 +1,3 @@
+Homebridge is a lightweight Node.js server that emulates the iOS HomeKit
+API. Using Homebridge, Siri can control devices that are not supported
+through HomeKit.

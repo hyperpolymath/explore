@@ -1,0 +1,3 @@
+WebAuthn is a web standard published by the World Wide Web Consortium
+(W3C) to standardize an interface for authenticating users to web-based
+applications and services using public-key cryptography.

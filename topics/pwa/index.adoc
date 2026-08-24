@@ -1,0 +1,10 @@
+Progressive Web Apps start with a traditional web site/application and
+progressively enhance with modern features. When sites are
+https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https[secure]
+they can leverage
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API[ServiceWorkers]
+to provider users with offline support,
+https://developer.mozilla.org/en-US/docs/Web/API/Push_API[Push
+notifications] can help re-engage users, and
+https://developer.mozilla.org/en-US/docs/Web/Manifest[Web App Manifests]
+let users install PWAs alongside native apps.

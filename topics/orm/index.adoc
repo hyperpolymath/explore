@@ -1,0 +1,3 @@
+*Object–relational mapping* (ORM) is a technique with which records from
+relational databases are mapped to objects using an object-relational
+mapper in the programming language in which they are used.

@@ -1,0 +1,3 @@
+AwesomeWM is a dynamic window manager for the X Window System developed
+in the C and Lua programming languages. It aims to be extremely small
+and fast, yet extensively customizable.

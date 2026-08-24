@@ -1,0 +1,5 @@
+Yarn is a package manager for the code. It allows you to use and share
+code with other developers from around the world. With Yarn, engineers
+still have access to the npm registry, but can install packages more
+quickly and manage dependencies consistently across machines or in
+secure offline environments.

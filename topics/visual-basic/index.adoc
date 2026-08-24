@@ -1,0 +1,2 @@
+Visual Basic is an approachable language with a simple syntax for
+building type-safe, object-oriented apps.

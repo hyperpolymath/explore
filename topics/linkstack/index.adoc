@@ -1,0 +1,6 @@
+== LinkStack
+
+LinkStack is an open source, self-hosted, plug-and-play, highly
+customizable link sharing platform with an intuitive, easy to use user
+interface it empowers users to prioritize privacy and independence by
+owning their own data - a direct alternative to LinkTree.

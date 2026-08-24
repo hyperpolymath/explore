@@ -1,0 +1,4 @@
+Haskell is a functional (that is, everything is done with function
+calls), statically, implicitly typed (types are checked by the compiler,
+but you don’t have to declare them), lazy (nothing is done until it
+needs to be) language.

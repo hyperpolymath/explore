@@ -1,0 +1,3 @@
+PipeWire is a server for handling audio and video streams and hardware
+on Linux. It was created by Wim Taymans at Red Hat. It handles
+multimedia routing and pipeline processing.

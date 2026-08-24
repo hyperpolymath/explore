@@ -1,0 +1,5 @@
+Algorithms are detailed sets of guidelines created for a computer
+program to complete tasks efficiently and thoroughly. Algorithms in
+computer programming are employed to solve complex problems. Various
+cutting-edge technologies including artificial intelligence (AI) and
+machine learning (ML), operate based on simple or complex algorithms.

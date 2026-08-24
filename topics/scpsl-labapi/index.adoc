@@ -1,0 +1,4 @@
+LabAPI is the official server-side plugin loader for the game SCP:
+Secret Laboratory, and is created by Northwood Studios. Its API provides
+events and wrappers for game mechanics, to allow plugin developers to
+interact with the game.

@@ -1,0 +1,3 @@
+Matter, formerly Project Connected Home over IP (CHIP), is a
+royalty-free home automation connectivity standard, with manufacturers
+only incurring certification costs.

@@ -1,0 +1,4 @@
+WiiConnect24 was a feature of the Nintendo Wi-Fi Connection for the Wii
+console. It was first announced at Electronic Entertainment Expo (E3) in
+mid-2006 by Nintendo. It enabled the user to remain connected to the
+Internet while the console was on standby.

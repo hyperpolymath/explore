@@ -1,0 +1,3 @@
+In computing, logging is the act of keeping a log of events that occur
+in a computer system, such as problems, errors or just information on
+current operations.

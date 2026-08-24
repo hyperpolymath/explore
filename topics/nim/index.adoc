@@ -1,0 +1,4 @@
+Nim is a general-purpose systems programming language that’s designed to
+be efficient, expressive, and elegant. The Nim compiler produces
+dependency-free binaries for most platforms as well as JavaScript for
+the web.

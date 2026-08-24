@@ -1,0 +1,4 @@
+Vite is a JavaScript development server and bundler for modern frontend
+development. It enhances the development experience by serving the
+source files over native ES modules, with rich built-in features and
+astonishingly fast Hot Module Replacement (HMR).

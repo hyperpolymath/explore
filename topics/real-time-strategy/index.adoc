@@ -1,0 +1,3 @@
+A sub-genre of strategy video games in which the game does not progress
+incrementally in turns. This is distinguished from turn-based strategy
+(TBS), in which all players take turns when playing.

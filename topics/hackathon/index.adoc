@@ -1,0 +1,4 @@
+A hackathon is a sprint-like event in which people collaborate
+intensively on software projects. The goal of a hackathon is to create
+usable software or hardware with the goal of creating a functioning
+product by the end of the event.

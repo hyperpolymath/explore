@@ -1,0 +1,14 @@
+*Dependency injection* (*DI*) is an implementation of the
+link:/topics/dependency-inversion-principle[dependency inversion
+principle] with the aim of
+link:/topics/separation-of-concerns[separation of concerns] by
+separating the depndency’s implementation from the class that’s using
+it. That kind of abstraction makes it possible to have different
+implementations with the same public methods so the class using it,
+doesn’t need to care which of the implementations is used. This is also
+especially useful for link:/topics/unit-testing[unit testing].
+
+There are different types of dependency injection: *
+link:/topics/constructor-injection[constructor injection] *
+link:/topics/setter-injection[setter injection] *
+link:/topics/interface-injection[interface injection]

@@ -1,0 +1,3 @@
+*Pug*, formerly known as *Jade*, is a high-performance templating engine
+influenced by Haml for Node.js and browsers, with a clean,
+whitespace-sensitive syntax for writing HTML.

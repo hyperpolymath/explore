@@ -1,0 +1,2 @@
+Nuxt.js is a framework for creating Vue.js applications. You can choose
+between Universal, Static Generated or Single Page applications.

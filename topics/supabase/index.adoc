@@ -1,0 +1,8 @@
+Supabase is an Open-Source Firebase Alternative.
+
+It’s been in development since April 2015 and is currently in production
+at https://supabase.com[supabase.com]. It’s built on top of
+https://www.postgresql.org/[PostgreSQL],
+https://github.com/netlify/gotrue[GoTrue],
+https://github.com/Kong/kong[Kong], and
+https://postgrest.org/[PostgREST].

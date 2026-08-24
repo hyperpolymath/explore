@@ -1,0 +1,5 @@
+FastAPI is a high performance, easy to learn, fast to code, and ready
+for production Python 3.7+ framework. Its performance is on par with
+NodeJS and Go (thanks to Starlette and Pydantic). It’s intuitive and
+standards-based (based on API standards like OpenAPI (previously known
+as Swagger) and JSON Schema).

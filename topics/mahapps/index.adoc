@@ -1,0 +1,3 @@
+MahApps.Metro is a framework that allows developers to cobble together a
+`+Metro+` or `+Modern+` UI for their own `+WPF+` applications with
+minimal effort.

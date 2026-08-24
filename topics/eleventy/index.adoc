@@ -1,0 +1,4 @@
+*Eleventy* (stylized as *11ty*) is a JavaScript-based alternative to
+Jekyll, built by https://twitter.com/zachleat[@zachleat]. It can
+transform template files of various formats into HTML. Eleventy’s mascot
+is an opossum suspended by a red balloon.

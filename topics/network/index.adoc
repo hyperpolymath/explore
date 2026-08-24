@@ -1,0 +1,8 @@
+*Network* refers to a collection of computers, servers, mainframes,
+network devices, peripherals, or other devices connected to one another
+to allow the sharing of data. This topic covers the fundamentals of
+networking, including network architecture, protocols, and technologies,
+as well as advanced topics like network security, virtualization, and
+cloud computing. Discussions include how networks are designed,
+maintained, and secured, and the impact of emerging technologies on
+networking.

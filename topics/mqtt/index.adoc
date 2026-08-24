@@ -1,0 +1,3 @@
+MQTT is a lightweight, publish-subscribe messaging protocol for the
+Internet of Things (IoT). It is an OASIS standard and an ISO
+recommendation (ISO/IEC 20922).

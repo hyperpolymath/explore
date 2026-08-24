@@ -1,0 +1,5 @@
+*PlatformIO* is an open source, cross-platform development ecosystem for
+embedded systems, IoT (Internet of Things) devices, and
+microcontrollers. It provides a unified and integrated development
+platform that simplifies and streamlines the process of developing
+software for a wide range of embedded hardware and platforms.

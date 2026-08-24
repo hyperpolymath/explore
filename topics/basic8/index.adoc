@@ -1,0 +1,3 @@
+BASIC8 is an integrated Fantasy Computer for game, and other program
+development. You can create, share, and play disks in a modern BASIC
+dialect, with built-in tools for editing sprites, tiles, maps, and more.

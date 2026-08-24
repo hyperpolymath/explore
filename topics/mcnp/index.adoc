@@ -1,0 +1,4 @@
+The Monte Carlo N-Particle (MCNP) radiation transport code is a Monte
+Carlo transport code developed by Las Alamos National Laboratory (LANL).
+It supports over 37 different types of particles, and is widely used by
+nuclear engineers, and nuclear physicists.

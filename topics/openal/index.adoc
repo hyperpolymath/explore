@@ -1,0 +1,3 @@
+OpenAL (Open Audio Library) is a cross-platform audio API designed for
+rendering of multichannel 3D positional audio. Its API style and
+conventions resemble those of OpenGL.

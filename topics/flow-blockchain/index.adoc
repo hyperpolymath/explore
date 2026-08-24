@@ -1,0 +1,11 @@
+Flow blockchain is a scalable, fast, and developer-friendly blockchain
+platform designed to support high-throughput applications, such as games
+and digital collectibles, without the need for layer-two solutions or
+sharding.
+
+Unlike traditional blockchain architectures, Flow utilizes a
+https://flow.com/primer#primer-how-flow-works[unique multi-node design],
+where different types of nodes perform distinct tasks - execution,
+verification, collection, and consensus. This design allows for
+significant improvements in scalability while preserving
+decentralization and security.

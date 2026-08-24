@@ -1,0 +1,4 @@
+UnrealScript was created to provide the development team and the
+third-party Unreal developers with a powerful, built-in programming
+language that maps naturally onto the needs and nuances of game
+programming.

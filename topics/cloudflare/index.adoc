@@ -1,0 +1,4 @@
+Cloudflare, Inc. specializes in global network infrastructure services,
+with those services having an emphasis on speed, reliability, and
+security. Cloudflare’s products and services range from consumer to
+enterprise-level, with a number of those products offering a free-tier.

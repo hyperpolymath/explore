@@ -1,0 +1,4 @@
+An *automaton* is a relatively self-operating machine designed to
+automatically follow a sequence of operations. The term has long been
+commonly associated with automated puppets that resemble moving humans
+or animals, built to impress and/or to entertain people.

@@ -1,0 +1,5 @@
+Mathematical Components is a repository of formalized mathematics
+developed using the Coq proof assistant. This project finds its roots in
+the formal proof of the Four Color Theorem. It has been used for large
+scale formalization projects, including a formal proof of the Odd Order
+(Feit-Thompson) Theorem.

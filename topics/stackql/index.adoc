@@ -1,0 +1,24 @@
+StackQL is an open source tool enabling developers and analysts to query
+and interact with cloud and SaaS services using a SQL grammar and an ORM
+that maps to the particular cloud or SaaS provider.
+
+StackQL includes a SQL parser, DAG planner, and executor, which
+transpiles SQL statements to provider API requests, returning responses
+as tabular data (with support for complex objects and arrays).
+
+StackQL can be used for cloud/SaaS inventory, reporting, and analysis,
+with the ability to correlate data across cloud providers using SQL
+`+JOIN+` operations.
+
+StackQL can also be used for traditional infrastructure-as-code
+operations such as scaffolding, provisioning, and de-provisioning, as
+well as lifecycle operations such as starting or stopping VM instances,
+activating/deactivating users, etc. StackQL routines can source
+configuration data or variables from `+json+` or
+https://github.com/google/jsonnet[`+jsonnet+`] files.
+
+StackQL providers are defined by extensions to the providers OpenAPI
+specification, more information can be found at
+https://github.com/stackql/stackql-provider-registry[stackql/stackql-provider-registry]
+and
+https://github.com/stackql/openapi-doc-util[stackql/openapi-doc-util].

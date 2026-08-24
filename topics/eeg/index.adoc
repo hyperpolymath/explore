@@ -1,0 +1,5 @@
+Electroencephalography (EEG) is a non-invasive method for recording
+electrical activity in the brain, first performed on humans by Hans
+Berger in 1924
+https://link.springer.com/article/10.1007/BF01797193[(Berger&#44;
+1929)].

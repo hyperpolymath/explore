@@ -1,0 +1,6 @@
+Vibe coding is an emerging programming paradigm where developers
+describe software behavior in natural language prompts, allowing AI
+tools like GitHub Copilot to generate and refine code. It shifts the
+developer’s role from writing code line-by-line to iterating on and
+validating AI-generated solutions. It’s perfect for quick hacks, weekend
+projects, and chasing ideas without getting bogged down in syntax.

@@ -1,0 +1,8 @@
+With Storybook you can visualize different states of your UI components
+and develop them outside of your application.
+
+An API is provided for external addons to provide documentation,
+interactivity and analytics on your components.
+
+A command is provided to create a static version that can be deployed
+easily to github pages for example.

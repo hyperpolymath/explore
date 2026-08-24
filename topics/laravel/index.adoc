@@ -1,0 +1,42 @@
+*Laravel* is a popular PHP framework, used for the development of MVC
+web applications, based on https://github.com/topics/symfony[Symfony]
+and created as an attempt to provide a more advanced alternative to
+https://github.com/topics/codeigniter[CodeIgniter].
+
+== https://laravel.com/docs/10.x/releases#versioning-scheme[Versions]
+
+https://github.com/topics/laravel4[*v4*]
+(https://github.com/topics/laravel42[v4.2]) •
+https://github.com/topics/laravel5[*v5*]
+(https://github.com/topics/laravel51[v5.1] •
+https://github.com/topics/laravel52[v5.2] •
+https://github.com/topics/laravel53[v5.3] •
+https://github.com/topics/laravel54[v5.4] •
+https://github.com/topics/laravel55[v5.5] •
+https://github.com/topics/laravel56[v5.6] •
+https://github.com/topics/laravel57[v5.7] •
+https://github.com/topics/laravel58[v5.8]) •
+https://github.com/topics/laravel6[*v6*] •
+https://github.com/topics/laravel7[*v7*] •
+https://github.com/topics/laravel8[*v8*] •
+https://github.com/topics/laravel9[*v9*] •
+https://github.com/topics/laravel10[*v10*]
+
+== Packages
+
+* https://github.com/topics/valet[Valet]
+* https://github.com/topics/homestead[Homestead]
+* https://github.com/topics/laravel-cashier[Cashier]
+* https://github.com/topics/laravel-socialite[Socialite]
+* https://github.com/topics/laravel-passport[Passport]
+* https://github.com/topics/laravel-scout[Scout]
+* https://github.com/topics/laravel-dusk[Dusk]
+* https://github.com/topics/laravel-horizon[Horizon]
+* https://github.com/topics/laravel-telescope[Telescope]
+* https://github.com/topics/laravel-sanctum[Sanctum]
+* https://github.com/topics/laravel-jetstream[Jetstream]
+* https://github.com/topics/laravel-sail[Sail]
+* https://github.com/topics/laravel-echo[Echo]
+* https://github.com/topics/inertiajs[Inertia]
+* https://github.com/topics/livewire[Livewire]
+* https://github.com/topics/laravel-nova[Nova]

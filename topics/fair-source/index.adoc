@@ -1,0 +1,7 @@
+Fair Source is software that is safe for companies to share and
+developers to use. We need it because, historically, Open Source has
+been an ambiguous term, applied to both community and commercial
+projects. By introducing a new term for commercial projects, Fair
+Source, we can set better expectations with developers, reduce pressure
+to change the Open Source Definition, and free up more companies to
+share their core software products.

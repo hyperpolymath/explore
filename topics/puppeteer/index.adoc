@@ -1,0 +1,4 @@
+Puppeteer is a Node.js library that provides an API to control
+Chrome/Chromium over the DevTools Protocol. Mainly used for tests,
+interaction automation in web applications, taking screenshots and
+scraping data of web pages.

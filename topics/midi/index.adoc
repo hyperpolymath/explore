@@ -1,0 +1,5 @@
+MIDI (Musical Instrument Digital Interface) is a technical standard that
+describes a communications protocol, digital interface, and electrical
+connectors that connect a wide variety of electronic musical
+instruments, computers, and related audio devices for playing, editing,
+and recording music.

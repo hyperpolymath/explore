@@ -1,0 +1,3 @@
+Cybersecurity (security) includes controlling physical access to
+hardware as well as protection from attacks that come via network
+access, data injection, and code injection.

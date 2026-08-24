@@ -1,0 +1,2 @@
+visionOS is Apple’s spatial computing operating system, included with
+their augmented reality headset, the Apple Vision Pro.

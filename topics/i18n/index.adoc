@@ -1,0 +1,4 @@
+*Internationalization* (often abbreviated to *i18n* — this is a
+numeronym, where the "`18`" stands for the 18 letters between the first
+letter "`i`" and the last letter "`n`") is designing and developing in a
+way that can be adapted for users from any culture, region, or language.

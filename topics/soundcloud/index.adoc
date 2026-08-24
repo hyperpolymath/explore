@@ -1,0 +1,7 @@
+SoundCloud is a Swedish-founded online audio distribution platform and
+music sharing website based in Berlin, Germany that enables its users to
+upload, promote, and share audio, as well as a digital signal processor
+enabling listeners to stream audio. Started in 2007 by Alexander Ljung
+and Eric Wahlforss, SoundCloud has grown to be one of the largest music
+streaming services. SoundCloud is one of the most promising startups in
+the music world with an API that has already built over 120 apps.

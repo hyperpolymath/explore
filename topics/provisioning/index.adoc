@@ -1,0 +1,3 @@
+Provisioning is the process of setting up IT infrastructure. Examples
+include applying network configuration and installing the appropriate
+software (OS, middleware etc) needed for application logic to run.

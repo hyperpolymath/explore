@@ -1,0 +1,5 @@
+GitHub Accelerator is an exploration into what sustainable open source
+could look like: a 10-week program where open source maintainers receive
+an initial sponsorship to work on their project, paired with guidance
+and workshops from open source leaders, with an end goal of building
+durable streams of funding for their work.

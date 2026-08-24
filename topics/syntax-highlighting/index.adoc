@@ -1,0 +1,4 @@
+Syntax highlighting is a feature of text editors that are used for
+programming, scripting, or markup languages that displays text,
+especially source code, in different colors and fonts according to a
+category of terms.

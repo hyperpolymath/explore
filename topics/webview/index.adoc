@@ -1,0 +1,4 @@
+The "`WebView`" is the window through which your device displays these
+web pages. The WebView allows the programmer to write the bulk of the
+application using HTML, JavaScript and CSS, the standard Web programming
+tools.

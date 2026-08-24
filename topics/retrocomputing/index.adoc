@@ -1,0 +1,3 @@
+Retrocomputing is the preservation and use of historic and vintage
+computer hardware and software. Software retrocomputing can be done on
+real hardware or on an emulator.

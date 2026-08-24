@@ -1,0 +1,6 @@
+IntelliJ IDEA is an intelligent, context-aware IDE for working with Java
+and other JVM languages like Kotlin, Scala, and Groovy on all sorts of
+applications. This environment is used especially for the development of
+programs. It has features like advanced code navigation, ability to
+refactor codes, and advanced error checking features which allows faster
+and easier error checking.

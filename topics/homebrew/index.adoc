@@ -1,0 +1,3 @@
+Homebrew is a package manager for Apple’s macOS operating system. It
+simplifies the installation of software and is popular in the Ruby on
+Rails community.

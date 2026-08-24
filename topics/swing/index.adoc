@@ -1,0 +1,6 @@
+Swing is a cross-platform user-interface toolkit to build desktop
+applications with Java and is packaged with the Java SDK. Build a user
+interface with different look-and-feels for any platform including
+macOS, Windows, and Linux. With the efficiency of multithreading, Swing
+can integrate with Java backend tools to create a full-stack Java
+desktop application.

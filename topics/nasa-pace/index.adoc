@@ -1,0 +1,18 @@
+PACE https://www.youtube.com/watch?v=TONpBd6Z6lE[launched into Earth
+orbit] on 2024-02-08 to extend and improve NASA’s over 20-year record of
+global ocean biology (especially the tiny plants and algae that sustain
+marine food webs), aerosols (tiny particles suspended in the air), and
+clouds.
+
+Two instruments fly on the satellite: - The Ocean Color Instrument
+(https://pace.oceansciences.org/oci.htm[OCI]) is a spectrometer that
+measures light over portions of the electromagnetic spectrum. Sunlight
+interacting with substances present in open water, such as the green
+photosynthetic pigment found in phytoplankton and land plants, gives the
+ocean its dynamic and informative color. - The multi-angle polarimeters
+https://pace.oceansciences.org/harp2.htm[HARP2] and
+https://pace.oceansciences.org/spexone.htm[SPEXone] are radiometers that
+measures how sunlight oscillates within a geometric plane—known as its
+polarization&mdash. Measuring polarization states of UV-to-shortwave
+light at various angles provides new information on the atmosphere and
+clouds, such as particle size and composition.

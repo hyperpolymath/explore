@@ -1,0 +1,10 @@
+*Hacktoberfest* is a month-long celebration of open source projects,
+their maintainers, and the entire community of contributors. Each
+October, open source maintainers give new contributors extra attention
+as they guide developers through their first pull requests on GitHub.
+
+== By programming language
+
+https://github.com/topics/hacktoberfest?l=javascript[JavaScript] •
+https://github.com/topics/hacktoberfest?l=python[Python] •
+https://github.com/topics/hacktoberfest?l=java[Java]

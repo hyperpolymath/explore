@@ -1,0 +1,8 @@
+Containerlab labs belong to Git, and GitHub is the most popular service
+for hosting public projects. To make public labs easily discoverable in
+a distributed fashion we introduced the `+clab-topo+` topic that anyone
+can
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics[add
+to the repo] that features a containerlab topology file.
+
+This will list your lab among others so that others can discover it.

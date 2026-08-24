@@ -1,0 +1,5 @@
+Visual Studio Code is a free code editor from Microsoft, based on open
+source. It’s highly customizable with tens of thousands of themes and
+extensions, including those for working with any programming language.
+
+VS Code is built using web technologies such as TypeScript and Electron.

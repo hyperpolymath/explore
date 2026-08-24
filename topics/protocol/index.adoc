@@ -1,0 +1,5 @@
+*Protocol* can mean different things, depending on the context: * In
+*link:/topics/oop[OOP]*, it refers to link:/topics/interface[interface]
+* In *networking/data exchange*, it refers to
+link:/topics/network-protocol[network-protocol] or
+link:/topics/communication-protocol[communication-protocol]

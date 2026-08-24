@@ -1,0 +1,4 @@
+Simple, efficient background processing for Ruby. +
+Sidekiq uses threads to handle many jobs at the same time in the same
+process. It does not require Rails but will integrate tightly with Rails
+to make background processing dead simple.

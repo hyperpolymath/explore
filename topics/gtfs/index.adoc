@@ -1,0 +1,4 @@
+Transit agencies use the GTFS and GTFS Realtime specifications to
+distribute their stop locations, route schedules, and related
+information for riders as open datasets on the internet. For a catalog
+of resources, see: https://github.com/CUTR-at-USF/awesome-transit

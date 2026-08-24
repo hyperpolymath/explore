@@ -1,0 +1,13 @@
+ComputerCraft is a modification for
+https://github.com/topics/minecraft[Minecraft] that’s all about computer
+programming. It allows you to build in-game Computers and Turtle Robots,
+and write programs for them using the https://github.com/topics/lua[Lua]
+programming language. The addition of programming to
+https://github.com/topics/minecraft[Minecraft] opens up a wide variety
+of new possibilities for automation and creativity. If you’ve never
+programmed before, it also serves as excellent way to learn a real world
+skill in a fun, familiar environment.
+
+*Development for ComputerCraft has ceased, but there is a fork called
+https://github.com/topics/computercraft-tweaked[CC: Tweaked] that offers
+enhanced performance, improved stability, and a wealth of new features.*

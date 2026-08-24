@@ -1,0 +1,4 @@
+*Test coverage* is the percentage of your project being covered
+by—depending on the perspective—code or tests, which can be measured in
+different ways: * path coverage * line coverage * branch coverage * code
+coverage

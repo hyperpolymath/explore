@@ -1,0 +1,3 @@
+BZFlag is a 3D multiplayer tank game first made in 1992. It runs on all
+three major platforms and was chosen for the Google Summer of Code three
+times, in 2007, 2008, and 2009.

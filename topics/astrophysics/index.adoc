@@ -1,0 +1,5 @@
+Astrophysics is the scientific discipline that deals with the physics of
+objects, phenomena, and processes in
+https://en.wikipedia.org/wiki/Outer_space[outer space], including (but
+not limited to) stars, galaxies, compact objects, and the formation of
+the Universe.

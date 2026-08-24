@@ -1,0 +1,8 @@
+A maze is a type of puzzle involving a collection of paths, usually
+where a player has to find a route from start to finish.
+
+A huge variety of algorithms exist for
+https://en.wikipedia.org/wiki/Maze_generation_algorithm[generating] and
+https://en.wikipedia.org/wiki/Pathfinding[solving] mazes. These are not
+only fun to implement, but also are a good way to familiarise yourself
+with programming techniques, algorithms, and languages.

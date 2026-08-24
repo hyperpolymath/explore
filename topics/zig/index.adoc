@@ -1,0 +1,5 @@
+Zig is a general-purpose programming language and toolchain for
+maintaining robust, optimal, and reusable software. Focus on debugging
+your application rather than debugging your programming language
+knowledge. There is no hidden control flow, no hidden memory
+allocations, no preprocessor, and no macros.

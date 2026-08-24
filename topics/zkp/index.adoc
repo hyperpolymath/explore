@@ -1,0 +1,3 @@
+Zero-knowledge proof (ZKP) is a cryptographic protocol where one party
+can prove to another party that a statement is true without revealing
+any information beyond the fact of the statement’s truth.

@@ -1,0 +1,4 @@
+*JSX* is an XML-like syntax extension to ECMAScript without any defined
+semantics that allows creation of DOM trees. Being a syntactic sugar,
+JSX is generally transpiled into nested JavaScript function calls
+structurally similar to the original JSX.

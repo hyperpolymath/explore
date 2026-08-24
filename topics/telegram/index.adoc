@@ -1,0 +1,5 @@
+*Telegram* is a cloud-based instant messaging service. It offers open
+source clients https://telegram.org/apps[for a multitude of operating
+systems] and powerful APIs that allow developers to create their
+https://core.telegram.org/api#telegram-api[own clients] and
+https://core.telegram.org/bots[chat bots].

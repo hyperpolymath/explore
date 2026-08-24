@@ -1,0 +1,5 @@
+Golem is a decentralized marketplace for renting computing power.
+Providers can rent out their hardware to the network and requestors can
+pay to run applications on that hardware. Golem supports Execution
+environments like WASM, A Docker-like light virtual machine, and a
+trusted execution environment (SGX).

@@ -1,0 +1,5 @@
+The Kotlin Multiplatform technology simplifies the development of
+cross-platform projects across iOS, Android, desktop and the web. It
+reduces time spent writing and maintaining the same code for different
+platforms while retaining the flexibility and benefits of native
+programming.

@@ -1,0 +1,7 @@
+Constrained Application Protocol (CoAP) is a specialized web transfer
+protocol for use with constrained nodes and constrained networks in the
+Internet of Things, as defined by
+https://tools.ietf.org/html/rfc7252[IETF RFC 7252]. CoAP adopts a REST
+model making it easy to learn and easy to adapt to HTTP. coaps:// is a
+related protocol, where "`s`" stands for a secure layer using DTLS.
+Learn more at http://coap.technology/[coap.technology].

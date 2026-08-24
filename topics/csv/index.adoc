@@ -1,0 +1,3 @@
+*CSV* is a common data exchange format that stores tabular data in a
+plain text file. A CSV file stores the data in a delimited text file
+that uses commas to separate the values.

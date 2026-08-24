@@ -1,0 +1,3 @@
+Synthetic biology (SynBio) is a multidisciplinary area of research that
+seeks to create new biological parts, devices, and systems, or to
+redesign systems that are already found in nature.

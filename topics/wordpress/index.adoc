@@ -1,0 +1,13 @@
+WordPress is a popular content management system, used for websites and
+blogs. WordPress is written in PHP and MySQL and is designed to be
+flexible and user-friendly.
+
+It allows the addition of functionalities through plugins. These plugins
+make WordPress one of the most versatile and widely used platforms for
+forums, community social networks, ecommerce (WooCommerce), intranet
+websites, education and learning platforms (LMS), magazines and
+newspapers, etc.
+
+WordPress has its open source version at its "`org`" domain address, to
+be installed on any compatible server, and its cloud SaaS version at
+"`com`", with a managed and ready-to-use infrastructure.

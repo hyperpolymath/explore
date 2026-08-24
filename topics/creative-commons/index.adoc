@@ -1,0 +1,6 @@
+The Creative Commons licenses are a collection of
+https://en.wikipedia.org/wiki/Public_copyright_license[public copyright
+licenses] released by the non-profit, Creative Commons. There are
+various types of Creative Commons licenses available with varying
+requirements among them, namely around attribution, commercial use, and
+redistributing modifications.

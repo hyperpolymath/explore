@@ -1,0 +1,2 @@
+A URI Template is a compact sequence of characters for describing a
+range of Uniform Resource Identifiers through variable expansion.

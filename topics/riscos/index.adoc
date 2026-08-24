@@ -1,0 +1,4 @@
+RISC OS is an operating system created by Acorn computers for the first
+ARM processors. It is a modular system, using a cooperative multitasking
+model. It is used by hobbyists on hardware such as the Raspberry Pi and
+Pinebook.

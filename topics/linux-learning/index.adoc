@@ -1,0 +1,1 @@
+Projects trying to make learning linux easier.

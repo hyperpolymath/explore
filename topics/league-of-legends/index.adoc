@@ -1,0 +1,10 @@
+League of Legends (LoL), commonly referred to as League, is a 2009
+multiplayer online battle arena video game developed and published by
+Riot Games. The game is available for Microsoft Windows and macOS.
+
+== Community & Support
+
+* https://developer.riotgames.com/apis[APIs]
+* https://developer.riotgames.com/docs/lol[Documentation]
+* https://discord.com/invite/riotgamesdevrel[Riot Games Third-Party
+Developer Community on Discord]

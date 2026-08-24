@@ -1,0 +1,2 @@
+mcfunction is a language created by Mojang for Minecraft datapacks,
+following the same syntax as commands in-game.

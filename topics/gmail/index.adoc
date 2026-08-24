@@ -1,0 +1,10 @@
+*Gmail* is an email service provided by Google. With Gmail, you can send
+and receive emails, block spam, create an address book, and perform
+other basic email tasks. It also has a built-in-chat feature, with which
+you can send someone an instant message or use the voice and video chat
+feature if your computer has a microphone and/or webcam.
+
+== Other resources
+
+* Read the API documentation at https://developers.google.com/gmail
+* Access the application at https://mail.google.com

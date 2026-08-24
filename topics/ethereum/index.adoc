@@ -1,0 +1,4 @@
+Ethereum is a decentralized platform that runs contract-based
+applications without any possibility of downtime, censorship, fraud or
+third-party interference. Ethereum blockchain focuses on running the
+code of any decentralized application.

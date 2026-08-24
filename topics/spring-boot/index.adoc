@@ -1,0 +1,2 @@
+Spring Boot is a coding and configuration model for Java applications.
+Spring was developed by Pivotal Software.

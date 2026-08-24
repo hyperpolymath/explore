@@ -1,0 +1,5 @@
+The International Image Interoperability Framework (IIIF) is a set of
+open standards for delivering high-quality, attributed digital objects
+online at scale. It’s also an international community developing and
+implementing the IIIF APIs. IIIF is backed by a consortium of leading
+cultural institutions.

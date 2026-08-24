@@ -1,0 +1,3 @@
+While JSON is probably the most popular format for exchanging data,
+*JSON Schema* is the vocabulary that enables JSON data consistency,
+validity, and interoperability at scale.

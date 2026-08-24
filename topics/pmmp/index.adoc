@@ -1,0 +1,5 @@
+PocketMine-MP is a Minecraft: Bedrock Edition server software written in
+PHP, originally created by Shoghi Cervantes Pueyo, which can be enhanced
+and customised via plugins. Since the development on the main repository
+has stopped, the repository was forked and is currently maintained by
+members of pmmp.

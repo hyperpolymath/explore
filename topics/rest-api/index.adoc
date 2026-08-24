@@ -1,0 +1,3 @@
+A *representational state transfer* (*REST*) *API* is a way to provide
+compatibility between computer systems on the internet. The concept was
+first outlined in a dissertation by Roy Fielding in 2000.

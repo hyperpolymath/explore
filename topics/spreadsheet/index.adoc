@@ -1,0 +1,18 @@
+A *spreadsheet* is a computer application for computation, organization,
+analysis and storage of data in tabular form. Spreadsheets were
+developed as computerized analogs of paper accounting worksheets.
+
+== Solutions
+
+* https://github.com/topics/google[*Google*]:
+https://github.com/topics/gsuite[GSuite]
+https://github.com/topics/google-sheets[Google Sheets]
+* https://github.com/topics/microsoft[*Microsoft*]:
+https://github.com/topics/ms-office[MS Office]
+https://github.com/topics/excel[Excel]
+* https://github.com/topics/apple[*Apple*]: Numbers
+* https://github.com/topics/gnome[*GNOME*]:
+https://github.com/topics/gnumeric[Gnumeric]
+* https://github.com/topics/openoffice[*OpenOffice*]:
+https://github.com/topics/openoffice-calc[Calc]/https://github.com/topics/libreoffice[*LibreOffice*]:
+https://github.com/topics/libreoffice-calc[Calc]

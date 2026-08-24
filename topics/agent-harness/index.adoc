@@ -1,0 +1,6 @@
+Agent harnesses are the runtime scaffolding around AI agents. They
+usually combine context delivery, tool interfaces, planning state,
+memory, sandboxes, permissions, evaluation, and observability so agents
+can complete longer tasks reliably. Agent harnesses are especially
+common in coding agents, research agents, and multi-agent workflows
+where repeatability, safety, and traceability matter.

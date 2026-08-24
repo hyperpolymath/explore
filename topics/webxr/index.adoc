@@ -1,0 +1,4 @@
+WebXR comprises a group of standards (most notably the WebXR Device API)
+that allow browsers to communicate with augmented reality and virtual
+reality devices, enabling developers to create immersive experiences
+that can be accessed on the web.

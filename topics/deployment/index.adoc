@@ -1,0 +1,3 @@
+The general *deployment* process consists of several interrelated
+activities with possible transitions between them. These activities can
+occur at the producer side or at the consumer side or both.

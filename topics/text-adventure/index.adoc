@@ -1,0 +1,2 @@
+A style of game using ASCII characters instead of bitmap or vector
+graphics. Typically played on older computers and terminals.

@@ -1,0 +1,1 @@
+Gogs is a simple, stable and extensible self-hosted Git service

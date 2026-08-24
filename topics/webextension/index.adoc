@@ -1,0 +1,9 @@
+Universal standard for creating browser extensions.
+
+Working through a W3C charter group, Mozilla has partnered with
+Microsoft and Opera to define a browser extension API that works across
+multiple browsers.
+
+There is currently a preliminary specification that matches what Google
+has implemented in Chrome so that extensions written to the
+specification could potentially work on Chrome, Edge, Opera and Firefox.

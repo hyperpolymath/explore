@@ -1,0 +1,3 @@
+ESLint is an extensible static-analysis tool for JavaScript and related
+languages that helps catch errors before they break something in
+production.

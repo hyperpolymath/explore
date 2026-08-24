@@ -1,0 +1,3 @@
+Neo4j is a graph database management system. It is highly flexible,
+highly scalable, and uses the Cypher query language to take advantage of
+its graph-based method of structuring data.

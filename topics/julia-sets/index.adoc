@@ -1,0 +1,11 @@
+Julia Sets are mathematical objects relating to the field of complex
+dynamics. In general, Julia sets are studied in parallel to Fatou sets,
+as they are complementary sets defined from a complex function. To be
+specific, in a metric space latexmath:[(X,d)], a Fatou set of a map
+latexmath:[f: X \to X] is the maximal open subset of latexmath:[X] on
+which the family of iterates latexmath:[\lbrace f^n \rbrace] is
+equicontinuous, and the Julia set is its complement in latexmath:[X].
+
+To approximate images of these sets, a common approach is to iterate the
+function of interest over some subset of the complex plane, which often
+yield beautiful fractals.

@@ -1,0 +1,4 @@
+Puppet is a powerful configuration management tool. It is open source
+and operating system agnostic, with freely downloadable
+https://forge.puppet.com[modules] providing capabilities to manage
+everything from core OS settings to full technology stacks.

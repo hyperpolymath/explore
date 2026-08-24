@@ -1,0 +1,2 @@
+A React UI library or collection of React components. React is an open
+source JavaScript framework for designing user interfaces.

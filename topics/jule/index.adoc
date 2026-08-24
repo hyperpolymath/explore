@@ -1,0 +1,6 @@
+Jule is an effective programming language designed to build efficient,
+fast, reliable and safe software while maintaining simplicity. It is a
+statically typed, compiled language with a syntax influenced by Go,
+Rust, and C++. Jule aims to provide high C and C++ interoperability. To
+achieve this, Jule compiles its code to C++ code and supports powerful
+backend compilers such as GCC and Clang.

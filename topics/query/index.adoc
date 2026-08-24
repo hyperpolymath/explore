@@ -1,0 +1,4 @@
+The term "`**query**`" can mean multiple things: *
+link:/topics/query-string[query-string] as part of an
+link:/topics/url[URL] * link:/topics/sql-query[sql-query] to query a
+link:/topics/database[database]

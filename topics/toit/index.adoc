@@ -1,0 +1,2 @@
+The Toit language is the foundation for the Toit platform that brings
+robust serviceability to your ESP32-based devices.

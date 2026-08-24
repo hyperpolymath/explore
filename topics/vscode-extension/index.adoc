@@ -1,0 +1,6 @@
+Visual Studio Code is a free code editor from Microsoft, based on open
+source.
+
+Visual Studio Code is built with extensibility in mind. From the UI to
+the editing experience, almost every part of VS Code can be customized
+and enhanced through the Extension API.

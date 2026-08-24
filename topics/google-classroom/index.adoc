@@ -1,0 +1,10 @@
+*Google Classroom* is a free blended learning platform developed by
+Google for educational institutions that aims to simplify creating,
+distributing, and grading assignments. The primary purpose of Google
+Classroom is to streamline the process of sharing files between teachers
+and students.
+
+== Other resources
+
+* Read the API documentation at https://developers.google.com/classroom
+* Access the application at https://classroom.google.com

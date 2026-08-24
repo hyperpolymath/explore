@@ -1,0 +1,5 @@
+Shadcn ui is an open source React component library created with
+Tailwind CSS and Radix UI. It offers accessible, customizable UI
+components that developers can directly copy into their projects,
+providing full control over styling and functionality. It’s
+well-regarded for its developer-friendly approach and flexibility.

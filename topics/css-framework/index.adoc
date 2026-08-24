@@ -1,0 +1,15 @@
+*CSS Frameworks* offer one or multiple stylesheets from basic styling to
+generic components to some extent, including but not limited to * Reboot
+(aka "`Preflight`") * Layout (often times "`Grid`") * Forms, Tables,
+etc. * https://github.com/topics/typography[Typography] *
+https://github.com/topics/responsive[Responsiveness] (often times
+including breakpoints and https://github.com/topics/viewport[viewport])
+
+They often have their own class notation and many use
+https://github.com/topics/css-preprocessor[preprocessors] like
+https://github.com/topics/sass[Sass],
+https://github.com/topics/less[Less] or
+https://github.com/topics/stylus[Stylus].
+
+Related Collections: - https://github.com/collections/css-frameworks[CSS
+frameworks]

@@ -1,0 +1,5 @@
+The reMarkable tablets are open note-taking devices featuring an e-ink
+screen, a touchscreen, and a pen digitizer. The devices come with root
+access by default and a Linux-based operating system, which sparked a
+rich community of enthusiasts who develop software to extend the
+capabilities of the tablets.

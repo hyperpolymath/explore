@@ -1,0 +1,7 @@
+Allow administrator accounts to configure and manage all aspects of
+https://workspace.google.com[Google Workspace] for an organization
+
+Other resources:
+
+* Read the API documentation at https://developers.google.com/admin-sdk
+* Access the application at https://admin.google.com

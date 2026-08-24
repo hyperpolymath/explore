@@ -1,0 +1,2 @@
+A CSS Reset is used to remove the default browser styling and make the
+website look same on all browsers

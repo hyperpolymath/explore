@@ -1,0 +1,7 @@
+Freely available Software Development Kit for Playdate handheld video
+game console by Panic. Contains API for Lua and C programming languages,
+documentation, examples and simulator.
+
+SDK documentation: - https://sdk.play.date/[general & Lua] -
+https://sdk.play.date/Inside%20Playdate%20with%20C.html[specifically for
+C]. - https://sdk.play.date/changelog/[changelog]

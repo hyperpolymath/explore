@@ -1,0 +1,2 @@
+MIDI (Musical Instrument Digital Interface) 2.0 is an extension of MIDI
+1.0. The specifications are still in active development.

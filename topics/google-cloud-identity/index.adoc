@@ -1,0 +1,7 @@
+Cloud Identity API is an API for provisioning and managing identity
+resources.
+
+Other resources:
+
+* Read the API documentation at https://cloud.google.com/identity/docs
+* Access the application at https://cloud.google.com/identity

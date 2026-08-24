@@ -1,0 +1,4 @@
+Raycast extensions extend the functionality of the macOS application
+launcher Raycast. Open source extensions are compiled into the official
+Raycast Extensions https://github.com/raycast/extensions[repository] and
+made available in the https://www.raycast.com/store[Raycast Store].

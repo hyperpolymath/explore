@@ -1,0 +1,11 @@
+SpaceVim is a distribution of the vim editor that’s inspired by
+https://github.com/syl20bnr/spacemacs[spacemacs]. It manages collections
+of plugins in layers, which help collect related packages together to
+provide features. For example, the
+http://spacevim.org/layers/lang/python/[python layer] collects
+https://github.com/Shougo/deoplete.nvim/[deoplete.nvim],
+https://github.com/neomake/neomake[neomake], and
+https://github.com/davidhalter/jedi-vim[jedi-vim] together to provide
+autocompletion, syntax checking, and documentation lookup. This approach
+helps keep configuration organized and reduces overhead for the user by
+keeping them from having to think about what packages to install.

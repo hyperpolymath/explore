@@ -1,0 +1,4 @@
+CircuitPython is a beginner-friendly implementation of Python, optimised
+to run on microcontrollers and single board computers. The design
+facilitates using code on supported boards via USB or Bluetooth file
+transfer.

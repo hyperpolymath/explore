@@ -1,0 +1,3 @@
+OpenBSD is a FREE, multi-platform 4.4BSD-based UNIX-like operating
+system. Our efforts emphasize portability, standardization, correctness,
+proactive security and integrated cryptography.

@@ -1,0 +1,6 @@
+JavaFX is an open source, next generation client application platform
+for desktop, mobile and embedded systems built with Java. It is offered
+as a cross-platform Java library and it delivers consistent graphical
+user interfaces across a wide range of operating systems and devices.
+Applications developed with JavaFX can be run on devices such as desktop
+computers, mobile phones, TVs, tablets, and more.

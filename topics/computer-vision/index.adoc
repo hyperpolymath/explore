@@ -1,0 +1,3 @@
+Computer vision is an interdisciplinary field that deals with how
+computers can be made to gain high-level understanding of digital images
+and videos.

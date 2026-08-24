@@ -1,0 +1,2 @@
+The autohotkey is a custom script created by Autohotkey group for
+macro-commands creation, launched in 2003.

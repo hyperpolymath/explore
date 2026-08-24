@@ -1,0 +1,4 @@
+Wagtail is a free and open source content management system (CMS)
+written in Python. The project has a focus on developer friendliness as
+well as ease of use of its administration interface, translated in
+multiple languages.

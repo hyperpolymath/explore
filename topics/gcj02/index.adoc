@@ -1,0 +1,2 @@
+GCJ-02 and BD-09 are map obfuscation algorithms used in China;
+obfuscation is mandatory for all domestic online maps.

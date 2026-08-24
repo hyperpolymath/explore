@@ -1,0 +1,3 @@
+A MUD (Multi-User Dungeon) is a multiplayer real-time virtual world,
+usually text-based, combining elements of role-playing games, hack and
+slash, player versus player, interactive fiction, and online chat.

@@ -1,0 +1,3 @@
+Sketch is a digital design toolkit built for designers, intended for
+editing vector graphics in macOS. It is used primarily for user
+interface and icon design.

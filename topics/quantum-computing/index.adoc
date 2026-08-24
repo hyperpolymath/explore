@@ -1,0 +1,8 @@
+Quantum computing is a field of computing that uses quantum phenomena
+such as superposition and entanglement to perform operations on data. It
+is a rapidly growing field with potential applications in fields such as
+cryptography, chemistry, and optimization. Quantum computers can solve
+certain problems much faster than classical computers. Various
+programming languages such as Q#, Python and C++ can be used to write
+quantum algorithms to be run on quantum computers. The development of
+quantum computers is an active area of research and engineering.

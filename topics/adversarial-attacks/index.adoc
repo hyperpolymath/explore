@@ -1,0 +1,4 @@
+Adversarial attacks are techniques that craft intentionally perturbed
+inputs to mislead machine learning models into producing incorrect
+outputs. They are central to research in AI robustness, security, and
+trustworthiness.

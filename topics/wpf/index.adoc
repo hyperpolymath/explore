@@ -1,0 +1,2 @@
+Windows Presentation Foundation (WPF) is a UI framework released by
+Microsoft for rendering user interfaces in Windows-based applications.

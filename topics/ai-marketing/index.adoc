@@ -1,0 +1,8 @@
+AI marketing is a form of marketing that uses artificial intelligence
+concepts and models such as machine learning, natural language
+processing, and computer vision to achieve marketing goals. It automates
+decision-making processes across marketing functions including research,
+content creation, search optimization, advertising, and campaign
+management. The field is evolving from AI-assisted tools toward
+autonomous AI agents that can research, decide, and execute across
+marketing workflows.

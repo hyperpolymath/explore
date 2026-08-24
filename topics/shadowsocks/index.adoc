@@ -1,0 +1,3 @@
+Shadowsocks (SS for short) is an encrypted transmission protocol based
+on Socks5 proxy mode, and can also refer to various development packages
+that implement this protocol.

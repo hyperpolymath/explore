@@ -1,0 +1,5 @@
+OpenACC is a directive-based parallel programming model for C, C++, and
+Fortran. It is most often associated with directive-based programming
+for GPU computers, but has also been used for programming multi-core
+CPUs and FPGAs. OpenACC is developed and maintained by members of the
+OpenACC standard organization.

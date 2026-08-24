@@ -1,0 +1,6 @@
+Nowadays, developers strive to have as identical environments for
+production, staging and development as possible to rule out any
+infrastructure interferance. Therefore, instead of installing and
+maintaining packages manually, *infrastructure* is defined and managed
+*as code*. Container orchestration solutions and version control systems
+help keeping all environments in sync and changes transparent.

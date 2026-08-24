@@ -1,0 +1,5 @@
+Lisp is the second-oldest high-level programming language in widespread
+use today. It was originally created as a practical mathematical
+notation for computer programs. Lisp pioneered many ideas in computer
+science, including tree data structures, automatic storage management,
+dynamic typing, and the self-hosting compiler.

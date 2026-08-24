@@ -1,0 +1,10 @@
+*Google Chat* is a communication software developed by Google built for
+teams that provides direct messages and team chat rooms, similar to
+competitors Slack and Microsoft Teams. It is one of two apps that
+constitute the replacement for Google Hangouts, the other being Google
+Meet.
+
+== Other resources
+
+* Read the API documentation at https://developers.google.com/chat
+* Access the application at https://chat.google.com

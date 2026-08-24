@@ -1,0 +1,21 @@
+https://quarto.org/[Quarto] is an open source scientific and technical
+publishing system. Built on pandoc, it allows for the creation of
+reports, documents, websites, blogs, presentations, books, and articles
+in a https://quarto.org/docs/output-formats/all-formats.html[variety of
+formats].
+
+Quarto is supported by several coding tools, including
+https://quarto.org/docs/tools/jupyter-lab.html[JupyterLab],
+https://quarto.org/docs/tools/vscode.html[VS Code], and
+https://quarto.org/docs/tools/neovim.html[Neovim], as well as other
+https://quarto.org/docs/tools/text-editors.html[text editors]. It also
+has a powerful https://quarto.org/docs/visual-editor/[visual editor] for
+pandoc Markdown. The output can be modified and extended via
+https://quarto.org/docs/extensions/[extensions], and Quarto supports the
+creation of https://quarto.org/docs/extensions/creating.html[custom
+extensions].
+
+A variety of https://quarto.org/docs/publishing/[publication options]
+are available, including
+https://quarto.org/docs/publishing/quarto-pub.html[Quarto Pub] and
+https://quarto.org/docs/publishing/github-pages.html[GitHub Pages].

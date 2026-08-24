@@ -1,0 +1,4 @@
+Coursera is an online-learning platform that offers MOOCs,
+Specializations, and Degrees across a wide range of domains and topics,
+such as Machine Learning, Philosophy, Marketing Essentials, Copywriting,
+etc.

@@ -1,0 +1,2 @@
+A shell is a text-based terminal, used for manipulating programs and
+files. Shell scripts typically manage program execution.

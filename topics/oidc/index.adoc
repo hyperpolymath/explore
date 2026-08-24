@@ -1,0 +1,7 @@
+*OpenID connect* (*OIDC*) is an authentication layer on top of the
+https://github.com/topics/oauth2[OAuth 2.0 authorization framework].
+Beside https://github.com/topics/[SAML] it’s widely known for being used
+as a https://github.com/topics/sso[single sign-on] method. It uses
+https://github.com/topics/rest-api[REST] and
+https://github.com/topics/json[JSON] for communication with the identity
+provider.

@@ -1,0 +1,4 @@
+Nette Framework is a popular tool for PHP web development. It is
+designed to be as usable and as friendly as possible. It focuses on
+security and performance and is definitely one of the safest PHP
+frameworks.

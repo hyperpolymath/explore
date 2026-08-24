@@ -1,0 +1,4 @@
+Grafana is an open source data visualization platform which is primarily
+used for displaying metrics dashboards. It can aggregate, query, and
+display data from multiple sources such as Graphite, Prometheus, or
+MySQL.

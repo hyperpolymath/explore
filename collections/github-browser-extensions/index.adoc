@@ -1,0 +1,2 @@
+Some useful and fun browser extensions to personalize your GitHub
+browser experience.

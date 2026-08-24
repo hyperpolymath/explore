@@ -1,0 +1,3 @@
+Authorization is the process of granting or denying permissions based on
+rules. This should not be confused with authentication, which is the act
+of verifying someone’s identitiy.

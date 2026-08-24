@@ -1,0 +1,3 @@
+*PostgreSQL* is a database management system that is object-relational.
+PostgreSQL originated from the Ingres project at the University of
+California, Berkeley.

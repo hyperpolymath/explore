@@ -1,0 +1,2 @@
+Mantine is a React components library focused on providing great user
+and developer experience.

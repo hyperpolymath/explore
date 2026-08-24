@@ -1,0 +1,4 @@
+common interfaces for dependency injection containers (usually
+https://github.com/topics/service-locator[service locators]) in a
+standardized way of how frameworks and libraries make use of a container
+to obtain objects and parameters.

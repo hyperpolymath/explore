@@ -1,0 +1,3 @@
+Deta Space allows users to develop apps and run their own private
+instances of apps, meaning "`you’ll have complete control over your apps
+and your data never leaves your own cloud`".

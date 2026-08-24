@@ -1,0 +1,3 @@
+Defold is a free and source-available game engine with a focus on
+high-performance. It uses Lua, a scripting language, and allows you to
+create games for desktop, mobile, web, and console platforms.

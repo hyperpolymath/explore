@@ -1,0 +1,2 @@
+GitLab is an open source software that combines the ability to develop,
+secure, and operate software in a single application.

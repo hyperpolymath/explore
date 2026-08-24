@@ -1,0 +1,5 @@
+*Google Cloud Platform*, offered by Google, is a suite of cloud
+computing services. It provides Infrastructure as a Service, Platform as
+a Service, and serverless computing environments. Alongside a set of
+management tools, it provides a series of modular cloud services
+including computing, data storage, data analytics and machine learning.

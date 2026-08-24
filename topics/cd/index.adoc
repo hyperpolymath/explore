@@ -1,0 +1,4 @@
+*CD*, within the context of https://github.com/topics/cicd[CI/CD], can
+mean multiple things: *
+https://github.com/topics/continuous-deployment[Continuous deployment] *
+https://github.com/topics/continuous-delivery[Continuous delivery]

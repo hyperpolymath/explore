@@ -1,0 +1,7 @@
+The term "`**routing**`" can mean multiple things: *
+link:/topics/url-routing[url-routing], often parametrized and part of a
+framework to define HTTP routes * link:/topics/ip-routing[ip-routing] *
+link:/topics/geo-routing[geo-routing] as part of
+link:/topics/geospatial[geospatial]
+link:/topics/public-transportation[public-transportation] and
+link:/topics/maps[maps] service

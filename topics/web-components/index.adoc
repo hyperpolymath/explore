@@ -1,0 +1,10 @@
+Developers can create custom, reusable, encapsulated HTML tags for the
+web using Web Components. Components use the
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements[Custom
+Element] standard, frequently in combination with the
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM[Shadow
+DOM],
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template[HTML
+Templates], and
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import[ES
+Modules].

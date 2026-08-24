@@ -1,0 +1,4 @@
+The *publish-subscribe pattern* (short: *pubsub*) is an event handling
+and messaging pattern where the consumer _subscribes_ to the provider,
+which in return can then _publish_ a message that can be picked up and
+processed by each subscribed consumer.

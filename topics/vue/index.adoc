@@ -1,0 +1,3 @@
+Vue is a JavaScript framework for building websites. The intent of Vue
+is to make the integration of other JavaScript libraries easy. It is
+designed to organize and simplify web development.

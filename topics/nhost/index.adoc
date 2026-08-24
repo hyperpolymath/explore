@@ -1,0 +1,5 @@
+Nhost is an Open-Source Backend for Web and Mobile Apps.
+
+Nhost is built on https://www.postgresql.org/[PostgreSQL] and
+https://hasura.io[Hasura] and has additional support for authentication,
+storage and serverless functions.

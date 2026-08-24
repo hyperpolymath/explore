@@ -1,0 +1,5 @@
+Discord bots are automated programs that interact with users on the
+Discord communication platform. Built using various APIs and
+libraries—such as discord.js, discord.py, or JDA—these bots can perform
+a wide range of functions, from server moderation and music playback to
+complex integrations with external web services and games.

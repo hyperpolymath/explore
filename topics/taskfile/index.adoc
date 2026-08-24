@@ -1,0 +1,6 @@
+Task is an open source task runner or build-tool that aims to be simpler
+and easier to use than, for example, GNU Make.
+
+It is language agnostic and uses a simple YAML file to define tasks. It
+knows when tasks need to be rerun or not, it can use includes and run
+tasks in parallel.

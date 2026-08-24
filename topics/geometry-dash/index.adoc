@@ -1,0 +1,2 @@
+Open source Projects relating to the Video Game '`Geometry Dash`'. Most
+projects communicate with the Game Servers.

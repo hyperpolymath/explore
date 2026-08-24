@@ -1,0 +1,2 @@
+Material Design is a design language developed by Google. It makes use
+of grid-based layouts, responsive animation, and transitioning.

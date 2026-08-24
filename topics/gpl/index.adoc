@@ -1,0 +1,3 @@
+GNU General Public License is a free software license published by the
+Free Software Foundation whose main terms guarantee users the freedom to
+share and change the software.

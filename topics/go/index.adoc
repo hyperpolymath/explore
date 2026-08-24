@@ -1,0 +1,4 @@
+Go is a programming language built to resemble a simplified version of
+the C programming language. It compiles at the machine level. Go was
+created at Google in 2007 by Robert Griesemer, Rob Pike, and Ken
+Thompson.

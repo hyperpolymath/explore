@@ -1,0 +1,6 @@
+Primer is the design system created for GitHub by GitHub. The GitHub
+Design Infrastructure team builds and maintains Primer — this includes
+the CSS framework, style guide documentation, Octicons, numerous tools
+and libraries that support design and front-end, and more. With Primer
+being open source, its allowed the community to design and build their
+own projects with Primer.

@@ -1,0 +1,8 @@
+JetBrains MPS (Meta Programming System) is a language workbench
+developed by JetBrains. MPS is a tool to design domain-specific
+languages (DSL). It uses projectional editing which allows users to
+overcome the limits of language parsers, and build DSL editors, such as
+ones with tables and diagrams. It implements language-oriented
+programming. MPS is an environment for language definition, a language
+workbench, and integrated development environment (IDE) for such
+languages.

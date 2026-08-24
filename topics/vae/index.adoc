@@ -1,0 +1,4 @@
+A variational autoencoder (VAE) is a generative model that combines deep
+learning with Bayesian inference to learn compact latent representations
+of data. VAEs are widely used for image generation, anomaly detection,
+and data augmentation.

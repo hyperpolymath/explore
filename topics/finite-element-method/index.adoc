@@ -1,0 +1,4 @@
+The finite element method (FEM) is a numerical method for solving
+problems of engineering and mathematical physics. Typical problem areas
+of interest include structural analysis, heat transfer, fluid flow, mass
+transport, and electromagnetic potential.

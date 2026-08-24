@@ -1,0 +1,20 @@
+cURL (pronounced like "`curl`", UK: [kəːl], US: [kɝl]) is a computer
+software project providing a library (libcurl) and command-line tool
+(curl) for transferring data using various network protocols, supporting
+DICT, FILE, https://github.com/topics/ftp[FTP], FTPS,
+https://github.com/topics/gopher[GOPHER], GOPHERS,
+https://github.com/topics/http[HTTP], HTTPS,
+https://github.com/topics/imap[IMAP], IMAPS,
+https://github.com/topics/ldap[LDAP], LDAPS,
+https://github.com/topics/mqtt[MQTT],
+https://github.com/topics/pop3[POP3], POP3S,
+https://github.com/topics/rtmp[RTMP], RTMPS,
+https://github.com/topics/rtsp[RTSP],
+https://github.com/topics/scp[SCP], SFTP,
+https://github.com/topics/smb[SMB], SMBS,
+https://github.com/topics/smpt[SMTP], SMTPS,
+https://github.com/topics/telnet[TELNET], TFTP,
+https://github.com/topics/websocket[WS] and WSS. libcurl offers a myriad
+of powerful features. The name stands for "`Client for URL`". It was
+originally named httpget upon its first release in 1996 and then became
+urlget before adopting the current name of cURL.
