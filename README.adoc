@@ -12,7 +12,7 @@ hand-picked repositories, developers, organizations, videos, and
 articles that share a common theme.
 
 If you want to suggest edits to an existing Topic page or Collection, or
-curate a new one, read our link:CONTRIBUTING.md[contributing guide] to
+curate a new one, read our link:.github/CONTRIBUTING.md[contributing guide] to
 get started.
 
 === Running tests
