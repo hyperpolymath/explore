@@ -33,7 +33,7 @@ jobs:
           - test_type: all
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6.0.2
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd  # v6.0.2
         with:
           fetch-depth: 0
 
@@ -62,7 +62,7 @@ jobs:
         if: |
           (matrix.test_type == 'collections' && steps.collections.outputs.changed) ||
           (matrix.test_type == 'all' && steps.all.outputs.changed)
-        uses: actions/cache@v5
+        uses: actions/cache@caa296126883cff596d87d8935842f9db880ef25  # v5
         with:
           path: .api-cache.json
           key: api-cache-${{ matrix.test_type }}-${{ github.run_id }}
