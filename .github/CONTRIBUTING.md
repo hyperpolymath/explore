@@ -111,7 +111,7 @@ Drop the code bass with these musically themed repositories.
 
 ’’’’’
 
-The [pull request template](./.github/PULL_REQUEST_TEMPLATE.md) also
+The [pull request template](../.github/PULL_REQUEST_TEMPLATE.md) also
 provides guidance on the information you need to include.
 
 **Please fill out the pull request template completely,** if you do not
