@@ -41,11 +41,11 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
     execjs (2.10.0)
-    faraday (2.14.4)
-      faraday-net_http (>= 2.0, < 3.5)
+    faraday (2.15.0)
+      faraday-net_http (>= 2.0, < 3.6)
       json
       logger
-    faraday-net_http (3.4.4)
+    faraday-net_http (3.5.0)
       net-http (~> 0.5)
     faraday-retry (2.4.0)
       faraday (~> 2.0)
@@ -236,7 +236,7 @@ GEM
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    json (3.0.2)
+    json (3.1.0)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -261,8 +261,11 @@ GEM
       prism (~> 1.5)
     multi_xml (0.9.1)
       bigdecimal (>= 3.1, < 5)
-    net-http (0.9.1)
+    net-http (0.10.0)
+      net-protocol (>= 0.3.0)
       uri (>= 0.11.1)
+    net-protocol (0.4.0)
+      timeout
     nokogiri (1.19.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
@@ -340,6 +343,7 @@ GEM
     securerandom (0.4.1)
     simpleidn (0.2.3)
     terminal-table (1.6.0)
+    timeout (0.6.1)
     typhoeus (1.4.1)
       ethon (>= 0.9.0)
     tzinfo (2.0.6)
@@ -347,7 +351,7 @@ GEM
     unicode-display_width (3.3.0)
       unicode-emoji (~> 4.3)
     unicode-emoji (4.3.0)
-    uri (1.1.1)
+    uri (1.1.2)
     webrick (1.9.2)
 
 PLATFORMS
@@ -367,12 +371,12 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  faraday (= 2.14.4)
+  faraday (= 2.15.0)
   faraday-retry (= 2.4.0)
   fastimage
   github-pages (~> 232)
   httparty
-  json (= 3.0.2)
+  json (= 3.1.0)
   language_server-protocol (= 3.17.0.6)
   minitest
   nokogiri (~> 1.19.4)
