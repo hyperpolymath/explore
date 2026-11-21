@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 name: Check and update renamed/removed collection items
 
 on:

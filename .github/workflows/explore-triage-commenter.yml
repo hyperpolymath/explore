@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 name: Explore PR Triage Commenter
 
 # Posts a sticky comment on PRs that touch topic or collection pages,
