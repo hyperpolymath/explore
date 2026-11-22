@@ -1,3 +1,0 @@
-Portugol is a pseudolanguage that allows readers to developing
-structured algorithms in portuguese in a relatively more simple and
-intuitive way, independently from true programming languages.

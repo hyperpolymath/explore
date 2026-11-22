@@ -1,2 +1,0 @@
-Make sure your code matches your style guide with these essential code
-linters.

@@ -1,3 +1,0 @@
-WordPlate is a modern WordPress stack with a focus on simplicity. You
-can use it to easily develop WordPress websites with WordPlate. It
-simplifies the WordPress development.

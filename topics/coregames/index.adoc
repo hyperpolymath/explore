@@ -1,2 +1,0 @@
-Core is a complete multiplayer development platform with tools for game
-editing, publishing, and discovery using a Lua API and Unreal Engine.

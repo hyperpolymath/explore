@@ -1,2 +1,0 @@
-*Jest* is a JavaScript testing framework built on top of Jasmine, with a
-focus on simplicity and support for large web applications.

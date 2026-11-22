@@ -1,2 +1,0 @@
-Oculus is a VR (virtual reality) headset, and relates to creating games
-for the VR platform/headset.

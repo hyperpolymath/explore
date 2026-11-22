@@ -1,1 +1,0 @@
-Fabric is a lightweight, experimental modding toolchain for Minecraft.

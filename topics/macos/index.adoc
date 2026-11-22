@@ -1,2 +1,0 @@
-macOS is the operating system that powers every Mac computer. It was
-designed by Apple and is meant specifically for their hardware.

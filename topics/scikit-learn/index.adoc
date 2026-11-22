@@ -1,2 +1,0 @@
-scikit-learn is a widely-used Python module for classic machine
-learning. It is built on top of SciPy.

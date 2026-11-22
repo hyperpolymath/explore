@@ -1,2 +1,0 @@
-Windows is Microsoft’s GUI-based operating system. It is known for its
-graphical display and is designed to be user-friendly.

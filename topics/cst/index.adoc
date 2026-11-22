@@ -1,2 +1,0 @@
-A concrete syntax tree is an ordered, rooted tree that represents the
-syntactic structure of a string according to some context-free grammar.

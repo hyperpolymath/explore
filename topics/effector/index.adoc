@@ -1,3 +1,0 @@
-Effector allows you to manage data in complex applications without the
-risk of inflating the monolithic central store, with clear control flow,
-good type support and high capacity API.

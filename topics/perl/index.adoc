@@ -1,3 +1,0 @@
-Perl runs on over 100 platforms ranging from portables to mainframes. It
-can be used for almost all facets of programming, from rapid prototyping
-and large-scale development projects.

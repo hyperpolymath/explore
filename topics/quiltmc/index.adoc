@@ -1,2 +1,0 @@
-Quilt is a lightweight, experimental modding toolchain for Minecraft
-fork of Fabric.

@@ -1,2 +1,0 @@
-Suckless software is quality software with a focus on simplicity,
-clarity, and frugality.

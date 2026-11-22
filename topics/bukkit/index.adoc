@@ -1,4 +1,0 @@
-Bukkit is a Minecraft server modification software and API, and while
-the original project itself is stale, forks like PaperMC and Spigot are
-actively maintained, and most plugins and servers use some variant of
-Bukkit.

@@ -1,3 +1,0 @@
-A Dockerfile is used to build Docker Images. It is a simple text file
-that consists of a set of instructions or commands that is executed by
-an automated build process in steps from top to bottom.

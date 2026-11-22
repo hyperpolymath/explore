@@ -1,3 +1,0 @@
-ActionScript is an object-oriented programming language created by
-Adobe. It is a implementation of ECMAScript used primarily in Flash
-Player applications.

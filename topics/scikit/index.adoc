@@ -1,3 +1,0 @@
-SciKits (short for SciPy Toolkits) are add-on packages for SciPy, hosted
-and developed separately and independently from the main SciPy
-distribution. All SciKits are licensed under OSI-approved licenses.

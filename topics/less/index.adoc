@@ -1,3 +1,0 @@
-*Less* is a dynamic preprocessor style sheet language that can be
-compiled into Cascading Style Sheets (CSS) and run on the client side or
-server side.

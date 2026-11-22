@@ -1,3 +1,0 @@
-Motion is a production-ready motion library for React from Framer. It
-brings declarative animations, effortless layout transitions and
-gestures while maintaining HTML and SVG semantics.

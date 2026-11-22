@@ -1,3 +1,0 @@
-Auth0 is an Identity-as-a-Service (IDaaS) provider. Auth0 provides
-customers with a Universal Identity Platform for their web, mobile, IoT,
-and internal applications.

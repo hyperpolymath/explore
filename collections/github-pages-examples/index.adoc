@@ -1,1 +1,0 @@
-Fine examples of projects using https://pages.github.com[GitHub Pages].

@@ -1,3 +1,0 @@
-Bulma is a rising modern CSS framework that provides ready-to-use
-frontend components that can be easily combined to build responsive web
-interfaces.

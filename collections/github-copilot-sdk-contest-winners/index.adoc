@@ -1,2 +1,0 @@
-A collection of projects from the winners of the GitHub Copilot SDK
-weekend contest held the weekend of January 25, 2026.

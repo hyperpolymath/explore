@@ -1,2 +1,0 @@
-LineageOS is a free and open source operating system for smartphones and
-tablet computers, based on the Android mobile platform.

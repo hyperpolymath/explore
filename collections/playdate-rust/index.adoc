@@ -1,2 +1,0 @@
-Packages, tools, and examples that are helpful to make games for
-Playdate in the Rust programming language.

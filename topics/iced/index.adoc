@@ -1,3 +1,0 @@
-Iced is a cross-platform GUI library for Rust inspired by
-https://elm-lang.org/[The Elm Architecture] and focused on simplicity
-and type-safety.
