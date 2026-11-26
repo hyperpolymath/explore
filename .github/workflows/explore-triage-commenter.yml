@@ -1,4 +1,3 @@
-# SPDX-License-Identifier: MPL-2.0
 name: Explore PR Triage Commenter
 
 # Posts a sticky comment on PRs that touch topic or collection pages,
@@ -29,7 +28,7 @@ jobs:
   triage:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/github-script@v9.0.0
+      - uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3  # v9
         env:
           MARKER: '<!-- explore-triage-comment -->'
         with:
