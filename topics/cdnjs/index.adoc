@@ -1,2 +1,0 @@
-A free and open source CDN service powered by Cloudflare. Making it
-faster and easier to load library files on your websites.

@@ -1,1 +1,0 @@
-Software to make running your open source project a little bit easier.

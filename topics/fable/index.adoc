@@ -1,2 +1,0 @@
-Fable is a popular transpiler for F# to Javascript that brings F# to the
-Javascript world with tight interop capabilities.

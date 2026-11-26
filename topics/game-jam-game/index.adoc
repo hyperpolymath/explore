@@ -1,2 +1,0 @@
-A game typically built by an individual or small team in a few hours to
-a few weeks as part of a game-building hackathon.

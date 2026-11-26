@@ -1,3 +1,0 @@
-Minetest is an open source, sandbox, and voxel game engine, with
-unlimited creativity and building. Customize it with our mods and games.
-Build enormous houses, castles, and more.

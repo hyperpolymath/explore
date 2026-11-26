@@ -1,2 +1,0 @@
-While the number of ways to organize PHP is almost infinite, here are
-some frameworks that help you build clean applications.

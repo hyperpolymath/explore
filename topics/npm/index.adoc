@@ -1,3 +1,0 @@
-Npm is a package manager for JavaScript, included with Node.js. As a
-package manager, npm makes it easy for developers to share and reuse
-code.

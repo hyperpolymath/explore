@@ -1,3 +1,0 @@
-Jakarta EE represents the best way to drive cloud-native, mission
-critical applications and build upon the decades of experience of real
-world deployments and developers.

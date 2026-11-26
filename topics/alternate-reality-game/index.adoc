@@ -1,3 +1,0 @@
-An interactive networked narrative that uses the real world as a
-platform and employs transmedia storytelling to deliver a story that may
-be altered by the player actions.

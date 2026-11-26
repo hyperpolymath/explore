@@ -1,3 +1,0 @@
-*RDF* (*Resource Description Framework*) is a standard model for data
-interchange on the web, using URIs to name the relationships between
-things and a directed, labeled graph to represent the data.

@@ -1,3 +1,0 @@
-APM strives to detect and diagnose complex application performance
-problems to maintain an expected level of service. APM is "`the
-translation of IT metrics into business meaning ([i.e.] value).`"

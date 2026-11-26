@@ -1,3 +1,0 @@
-Bluesky is a microblogging social networking service modeled after and
-inspired by Twitter. Users can share text messages, images, and videos
-in short posts.

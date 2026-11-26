@@ -1,3 +1,0 @@
-Emacs is an extensible text editor written primarily in Emacs Lisp.
-While it excels at editing text, Emacs stretches the boundaries of what
-'`text`' is.

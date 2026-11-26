@@ -1,2 +1,0 @@
-Aurelia is a next generation JavaScript client framework that leverages
-simple conventions to empower your creativity.

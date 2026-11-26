@@ -206,9 +206,23 @@ describe "collections" do
       existing_items = existing_items_for_collection(collection)
       errors = []
 
-      collection_items_minus_new_additions = collection_items[0, existing_items.length]
+      # The published feed drifts independently of this repo, so items removed
+      # or added upstream must not fail the check. Only the relative order of
+      # items present in both lists, and "new items come last", are enforced.
+      existing_set = existing_items.to_set
+      common_in_feed_order = existing_items.select { |item| collection_items.include?(item) }
+      common_in_collection_order = collection_items.select { |item| existing_set.include?(item) }
+      seen_new_item = false
+      existing_after_new = collection_items.any? do |item|
+        if existing_set.include?(item)
+          seen_new_item
+        else
+          seen_new_item = true
+          false
+        end
+      end
 
-      if collection_items_minus_new_additions != existing_items
+      if common_in_collection_order != common_in_feed_order || existing_after_new
         errors << "expected collection changes to have been appended to the existing item list"
         annotate_collection_item_error(collection, "", errors.join("\n"))
       end

@@ -1,2 +1,0 @@
-Markdown is a lightweight markup language. It is designed to be a
-simple, lightweight way to add formatting without prior HTML experience.

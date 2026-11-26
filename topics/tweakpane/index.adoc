@@ -1,2 +1,0 @@
-Tweakpane is a compact GUI library for fine-tuning parameters and
-monitoring value changes.

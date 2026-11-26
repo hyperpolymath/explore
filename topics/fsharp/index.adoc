@@ -1,3 +1,0 @@
-F# (pronounced "`F sharp`") is a cross-platform, open source, functional
-programming language for .NET. It also includes object-oriented and
-imperative programming.

@@ -1,2 +1,0 @@
-Software simulating environments in which players use text commands to
-control characters and influence the environment.

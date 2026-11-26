@@ -1,2 +1,0 @@
-*Express.js* is a simple Node.js framework for single, multi-page, and
-hybrid web applications.

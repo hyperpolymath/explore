@@ -1,2 +1,0 @@
-A bot is an application that runs automated, usually repetitive tasks
-over the Internet.

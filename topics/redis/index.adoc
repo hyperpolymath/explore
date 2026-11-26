@@ -1,3 +1,0 @@
-*Redis* (*Remote Dictionary Server*) is a source-available in-memory
-data structure project implementing a distributed, in-memory key-value
-database with optional durability.

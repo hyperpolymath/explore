@@ -1,3 +1,0 @@
-Squirrel is a high-level object-oriented scripting language used to
-develop video games. It was designed to be lightweight, so it doesn’t
-use lots of memory. Squirrel supports classes, threads, tables, etc.

@@ -1,2 +1,0 @@
-Cryptographic algorithms secure against potential future quantum
-computers.

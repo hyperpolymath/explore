@@ -1,2 +1,0 @@
-Projects related to RISC-V cores built or receiving significant
-contributions from Brazilians.

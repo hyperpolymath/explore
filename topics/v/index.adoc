@@ -1,2 +1,0 @@
-A simple, fast, safe, compiled language for developing maintainable
-software. Inspired from C, C++, Go and Rust.

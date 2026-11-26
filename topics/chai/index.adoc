@@ -1,3 +1,0 @@
-*Chai* is a BDD/TDD assertion library, similar to Node’s built-in
-assert, for node and the browser that can be paired with any JavaScript
-testing framework.

@@ -1,2 +1,0 @@
-Deta offers serverless hosting, NoSQL databases, and file storage. For
-optimal usage, check out their Python, JavaScript, and Go SDKs.

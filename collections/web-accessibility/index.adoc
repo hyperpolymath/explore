@@ -1,2 +1,0 @@
-Tools to help you design and develop web projects with accessibility in
-mind.

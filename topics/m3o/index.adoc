@@ -1,2 +1,0 @@
-Micro is an open source cloud native development platform which enables
-companies to build cloud services and distributed systems.
